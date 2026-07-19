@@ -1,0 +1,12 @@
+{
+  "name": "promo-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auto-promotional website built on GitHub Pages",
+  "scripts": {
+    "start": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
