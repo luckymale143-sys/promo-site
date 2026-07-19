@@ -1,13 +1,99 @@
 {
   "articles": [
     {
+      "slug": "google-might-not-kneecap-the-pixel-11a-with-an-old-processor-mrr9ccjg",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "summary": "The Pixel 10a shipped with a last gen processor. | Photo: Dominic Preston / The Verge\t\n\nMystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the ",
+      "sourceUrl": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "sourceName": "The Verge",
+      "date": "2026-07-19T03:50:12.604Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "dave-eggers-told-openai-staff-that-chatgpt-was-silencing-an-entire-generation-mrr9ccha",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "summary": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts mo",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "sourceName": "The Verge",
+      "date": "2026-07-19T03:50:12.526Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "docusmart-ai--mrr9ccdn",
+      "title": "DocuSmart AI ",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/docusmart-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-19T03:50:12.396Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "clark-mrr9ccbq",
+      "title": "Clark",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/clark-agent",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-19T03:50:12.326Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "mirage-mrr9cc9n",
+      "title": "Mirage",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/mirage-15",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-19T03:50:12.251Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "2-pk-1l-listerine-freshburst-intense-antiseptic-mouthwash-215--mrr9cc3j",
+      "title": "2-Pk 1L Listerine Freshburst Intense Antiseptic Mouthwash $2.15 ",
+      "summary": "Walmart [walmart.com] has *Listerine Freshburst Intense Antiseptic Mouthwash Oral Care, Intense Spearmint, 2 x 1 L* for *$2.12*. Shipping is free w/ Walmart+ (free trial available [walmart.com]) or...",
+      "sourceUrl": "https://slickdeals.net/f/19778997-listerine-freshburst-intense-antiseptic-mouthwash-oral-care-intense-spearmint-2-x-1-l-2-12-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-19T03:50:12.031Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "welcome-to-promo-hub",
       "title": "🎉 Welcome to PromoHub — Your Free Auto-Deal Finder!",
       "summary": "This is your first post! The site is now live and the automation is working. Every 4 hours, this site will automatically pull the best deals, product launches, and discoveries from across the web. Bookmark this page and check back often for fresh picks!",
       "sourceUrl": "https://github.com/luckymale143-sys/promo-site",
       "sourceName": "PromoHub",
       "date": "2026-01-15T10:00:00.000Z",
-      "tags": ["Welcome"],
+      "tags": [
+        "Welcome"
+      ],
       "emoji": "🎉",
       "affiliateEligible": false
     },
@@ -18,7 +104,9 @@
       "sourceUrl": "https://github.com/features/actions",
       "sourceName": "GitHub Actions",
       "date": "2026-01-15T09:00:00.000Z",
-      "tags": ["Tech"],
+      "tags": [
+        "Tech"
+      ],
       "emoji": "⚙️",
       "affiliateEligible": false
     },
@@ -29,7 +117,10 @@
       "sourceUrl": "https://www.producthunt.com/",
       "sourceName": "Product Hunt",
       "date": "2026-01-15T08:00:00.000Z",
-      "tags": ["Tools", "Products"],
+      "tags": [
+        "Tools",
+        "Products"
+      ],
       "emoji": "🛠️",
       "affiliateEligible": true
     }
