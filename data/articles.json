@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "slug": "welcome-to-promo-hub",
+      "title": "🎉 Welcome to PromoHub — Your Automated Deal Finder!",
+      "summary": "This is your first auto-generated post. The site is now live and ready to publish fresh content every 4 hours. Soon you'll see real deals, product launches, and discoveries appearing here automatically. Bookmark this page and check back often for the best picks!",
+      "sourceUrl": "https://github.com/luckymale143-sys/promo-site",
+      "sourceName": "PromoHub",
+      "date": "2026-01-15T10:00:00.000Z",
+      "tags": ["Welcome", "auto"],
+      "emoji": "🎉",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "how-this-works",
+      "title": "⚙️ How This Site Works (100% Free, 100% Automated)",
+      "summary": "This entire website runs for $0/month. GitHub Actions fetches RSS feeds every 4 hours, generates post pages, and commits them back. GitHub Pages serves the static files for free. No servers, no databases, no hosting fees. Just free tools doing amazing work.",
+      "sourceUrl": "https://github.com/features/actions",
+      "sourceName": "GitHub Actions",
+      "date": "2026-01-15T09:00:00.000Z",
+      "tags": ["Tech", "auto"],
+      "emoji": "⚙️",
+      "affiliateEligible": false
+    }
+  ]
+}
