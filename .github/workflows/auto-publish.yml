@@ -2,9 +2,8 @@ name: Auto-Publish Promotional Content
 
 on:
   schedule:
-    # Runs every 4 hours. Adjust as needed.
-    - cron: '0 */4 * * *'
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 */4 * * *'  # Every 4 hours. Change to '*/2' for every 2h, '0 */6' for every 6h.
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,17 +20,15 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install rss-parser
+      - name: Install dependencies
         run: npm install rss-parser
 
       - name: Generate new posts
         env:
-          # ✅ OPTIONAL: Add a free Gemini API key for AI rewriting
-          # Get one free at https://aistudio.google.com/apikey
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/generate.js
 
-      - name: Commit & push generated content
+      - name: Commit & push
         run: |
           git config user.name "promo-bot"
           git config user.email "bot@users.noreply.github.com"
