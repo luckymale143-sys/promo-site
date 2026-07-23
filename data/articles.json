@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "opencode-superapp-mrxkksoj",
+      "title": "OpenCode Superapp",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/opencode-superapp",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-23T13:51:19.603Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "promptql-mrxkksmc",
+      "title": "PromptQL",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/promptql",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-23T13:51:19.524Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ave-mrxkksjy",
+      "title": "AVE",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/ave-ai-video-editor",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-23T13:51:19.438Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "sams-club-members-shokz-openrun-pro-endurance-wireless-bluetooth-headphones-79-f-mrxkksgd",
+      "title": "Sam's Club Members: Shokz OpenRun Pro Endurance Wireless Bluetooth Headphones $79 + Free Pickup",
+      "summary": "Sam's Club [samsclub.com] 7/22-8/16 Instant Savings Book states on page 24 [samsclub.com] that *Shokz OpenRun Pro Open-Ear Endurance Wireless Bluetooth Headphones* will be on sale for *$79*. Sale is...",
+      "sourceUrl": "https://slickdeals.net/f/19775046-sam-s-club-7-22-8-16-shokz-openrun-pro-for-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-23T13:51:19.309Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "1917-4k-uhd-blu-ray-digital-1090--mrxkkse3",
+      "title": "1917 (4K UHD + Blu-Ray + Digital) $10.90 ",
+      "summary": "Amazon has *1917* (4K UHD + Blu-Ray + Digital) on sale for *$10.87*. *Shipping is free* with Prime or on $35+ orders. \n \nWalmart also has *1917* (4K UHD + Blu-Ray + Digital) on sale for *$10.87*....",
+      "sourceUrl": "https://slickdeals.net/f/19783821-10-87-1917-4k-uhd-blu-ray-digital-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-23T13:51:19.227Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "2-pk-wowbox-wood-lazy-susan-turntable-organizer-910-1440--mrxkksbf",
+      "title": "2-Pk WOWBOX Wood Lazy Susan Turntable Organizer (9\"&10\") $14.40 ",
+      "summary": "WOWBOX via Amazon [amazon.com] has *2-Pack 9\"+10\" WOWBOX Wood Lazy Susan Turntable Organizer *on sale for $17.98 - $3.60 off when you enter the coupon code Q7XABS2Z =*$14.38*. Shipping is free w/...",
+      "sourceUrl": "https://slickdeals.net/f/19775325-2-pack-9-10-wowbox-wood-lazy-susan-turntable-organizer-14-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-23T13:51:19.131Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "triple-feature-seven-the-devils-advocate-insomnia-blu-ray-1140-free-sh-mrxd1b3b",
       "title": "Triple Feature: Seven, The Devil's Advocate & Insomnia (Blu-Ray) $11.40 + Free S&H",
       "summary": "https://gruv.com/products/seven-d...m=15011880 \n \nUse promo code FIRSTGRUV15 to get extra 15% Off for new users",
