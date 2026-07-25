@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "fedica-20-mrzqz1o1",
+      "title": "Fedica 2.0",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/fedica",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-25T02:25:54.481Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "minknote-mrzqz1mj",
+      "title": "MinkNote",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/minknote",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-25T02:25:54.427Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "healthynotch-mrzqz1kt",
+      "title": "HealthyNotch",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/healthynotch",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-25T02:25:54.365Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "typhur-instawhisk-usb-c-rechargeable-milk-frother-wand-10-free-sh-mrzqz1ha",
+      "title": "Typhur InstaWhisk USB-C Rechargeable Milk Frother Wand $10 + Free S&H",
+      "summary": "Typhur Inc via Amazon [amazon.com] has *Typhur InstaWhisk USB-C Rechargeable Milk Frother Wand w/ 3 Heads* (Black) for $39.99 - $30 off w/ code KDD7XG3W at checkout = *$9.99. Shipping is...",
+      "sourceUrl": "https://slickdeals.net/f/19805658-typhur-instawhisk-usb-c-rechargeable-milk-frother-wand-w-3-heads-black-10-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-25T02:25:54.238Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "lululemon-align-high-rise-25-pant-with-pockets-willow-leaf-34-free-sh-mrzqz1fo",
+      "title": "lululemon Align High-Rise 25\" Pant with Pockets (Willow Leaf) $34 + Free S&H",
+      "summary": "Lululemon has Align High-Rise Leggings with Pockets  in Willow Leaf for $ 34 \n \nhttps://shop.lululemon.com/p/wome...od10520954",
+      "sourceUrl": "https://slickdeals.net/f/19805427-lululemon-align-high-rise-leggings-with-pockets-25-34?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-25T02:25:54.180Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "11-oz-watkins-vanilla-coffee-flavoring-syrup-280-w-ss-mrzqz1df",
+      "title": "11-Oz Watkins Vanilla Coffee Flavoring Syrup $2.80 w/ S&S",
+      "summary": "Amazon [amazon.com] has *11-Oz Watkins Vanilla Coffee Flavoring Syrup* for $2.93 - 5% when you check out via Subscribe & Save = *$2.78*. \n*Shipping is free* with Prime or on $35+ orders. \n...",
+      "sourceUrl": "https://slickdeals.net/f/19803645-new-sns-2-78-11-oz-watkins-vanilla-coffee-flavoring-syrup-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-25T02:25:54.099Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "select-accounts-22-oz-maxwell-house-decaf-original-medium-roast-ground-coffee-37-mrzfc1a3",
       "title": "Select Accounts: 22-Oz Maxwell House Decaf Original Medium Roast Ground Coffee $3.70 w/ S&S",
       "summary": "*Amazon [amazon.com] *has *22-Oz Maxwell House Decaf Original Medium Roast Ground Coffee *on sale for $5.25 - 25% off when you clip the coupon - 5% off when you checkout via subscribe & save...",
