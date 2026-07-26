@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "health-in-chatgpt-ms16nej1",
+      "title": "Health in ChatGPT",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/openai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-26T02:32:31.309Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "second-brain-for-mac-and-windows-ms16neh1",
+      "title": "Second Brain for Mac and Windows",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-26T02:32:31.237Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "select-accts-014-oz-systane-ultra-lubricant-eye-drops-230-w-ss-ms16nedn",
+      "title": "Select Accts: 0.14-Oz Systane Ultra Lubricant Eye Drops $2.30 w/ S&S",
+      "summary": "Amazon [amazon.com] has *0.14-Oz Systane Ultra Lubricant Eye Drops* for $4.15 - 40% when you 'clip' the coupon on product page - 5% when you check out via Subscribe & Save = *$2.28*. \n*Shipping is...",
+      "sourceUrl": "https://slickdeals.net/f/19806801-sns-ac-2-28-0-14-oz-systane-ultra-lubricant-eye-drops-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-26T02:32:31.115Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "makita-18v-lxt-4-speed-cordless-impact-driver-w-quick-shift-mode-tool-only-130-f-ms16neav",
+      "title": "Makita 18V LXT 4-Speed Cordless Impact Driver w/ Quick-Shift Mode (Tool Only) $130 + Free S&H w/ Prime",
+      "summary": "*Woot!* [woot.com] has *Makita XDT20Z 18V LXT* for *$129.99*. \n*Shipping is free* for Amazon Prime Members (must login with your Amazon account and select a shipping address in order for Woot to...",
+      "sourceUrl": "https://slickdeals.net/f/19806966-129-99-makita-xdt20z-18v-lxt-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-26T02:32:31.015Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "energy-take-classic-51-channel-home-theater-system-249-free-sh-ms16ne7u",
+      "title": "Energy Take Classic 5.1 Channel Home Theater System $249 + Free S&H",
+      "summary": "deal [adorama.com] \n \n$249 + Free S/H w/ code JHCE5839",
+      "sourceUrl": "https://slickdeals.net/f/19806168-share-energy-take-classic-5-1-channel-home-theater-system-249-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-26T02:32:30.906Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "open-box-unlocked-cell-phones-at-best-buy-for-up-to-40-off-android-phones-from-4-ms16ndpy",
+      "title": "Open-Box Unlocked Cell Phones at Best Buy for Up to 40% off, Android phones from $41 + free shipping",
+      "summary": "The price of open-box Android phones starts $41 and iPhones at $388 in the Best Buy Outlet. They're all brand-new but just won't ship in their original packaging. Warranty information is available on the individual product pages, and all products ship for free.  Buy Now at Best Buy",
+      "sourceUrl": "https://www.dealnews.com/Open-Box-Unlocked-Cell-Phones-at-Best-Buy-for-Up-to-40-off-Android-phones-from-41-free-shipping/21929296.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-07-26T02:32:30.262Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "fluentdb-ms0udgey",
       "title": "FluentDB",
       "summary": "Discussion\n            |\n            Link",
