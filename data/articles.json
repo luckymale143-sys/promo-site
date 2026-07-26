@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "the-us-is-charging-an-american-citizen-for-wiping-his-phone-at-the-border-ms2a1twg",
+      "title": "The US is charging an American citizen for wiping his phone at the border",
+      "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick's lawyers argues this was simply \"a",
+      "sourceUrl": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+      "sourceName": "The Verge",
+      "date": "2026-07-26T20:55:29.440Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "apple-is-banking-on-privacy-to-set-its-smart-glasses-apart-ms2a1tun",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "summary": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge\t\n\nAccording to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta'",
+      "sourceUrl": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "sourceName": "The Verge",
+      "date": "2026-07-26T20:55:29.375Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "appufo--ms2a1tom",
+      "title": "AppUFO ",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-26T20:55:29.158Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "yoggi-ms2a1tkp",
+      "title": "Yoggi",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/yoggi",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-07-26T20:55:29.017Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "4-pk-zeiss-tin-box-containers-w-hinge-lids-26-x-26-x-1-235--ms2a1tf5",
+      "title": "4-Pk ZEISS Tin Box Containers w/ Hinge Lids (2.6\" x 2.6\" x 1\") $2.35 ",
+      "summary": "Amazon [amazon.com] has *ZEISS Lens Cleaning Accessory Tin Box Containers with Hinge Lids, Pack of 4* for *$2.35*. \n*Shipping is free* with Prime or on $35+ orders. \n \namazon.com/dp/B0F1H5BYY3...",
+      "sourceUrl": "https://slickdeals.net/f/19783836-new-2-35-zeiss-lens-cleaning-accessory-tin-box-containers-with-hinge-lids-pack-of-4-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-26T20:55:28.817Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "select-accts-32-oz-lubriderm-advanced-therapy-fragrance-free-lotion-540-w-ss-ms2a1td5",
+      "title": "Select Accts: 32-Oz Lubriderm Advanced Therapy Fragrance-Free Lotion $5.40 w/ S&S",
+      "summary": "Amazon [amazon.com] has *32-Oz Lubriderm Advanced Therapy Fragrance-Free Hand & Body Lotion* for $12.97 - $2.38 - 35% when you 'clip' coupons on product page - 5% when you check out via Subscribe &...",
+      "sourceUrl": "https://slickdeals.net/f/19789944-sns-ac-5-40-32-oz-lubriderm-advanced-therapy-fragrance-free-hand-body-lotion-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-07-26T20:55:28.745Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "touchgrass-ms21j17d",
       "title": "TouchGrass",
       "summary": "Discussion\n            |\n            Link",
