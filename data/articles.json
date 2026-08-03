@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "inventory-msdpqbms",
+      "title": "Inventory",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/inventory",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-03T20:59:54.340Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "plethora-msdpqbkk",
+      "title": "Plethora",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/plethora-3",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-03T20:59:54.260Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "open-box-kef-q1-meta-bookshelf-speakers-pair-walnut-from-279-more-free-sh-msdpqbgb",
+      "title": "(Open-Box) KEF Q1 Meta Bookshelf Speakers (Pair; Walnut) from $279 & More + Free S&H",
+      "summary": "Select Best Buy Locations [bestbuy.com] have * KEF Q1 Meta Bookshelf Speakers *(Pair) (Open-Box) on sale for the prices below. *Shipping is free* for select locations / items. Otherwise, select free...",
+      "sourceUrl": "https://slickdeals.net/f/19838700-open-box-kef-q1-meta-bookshelf-speakers-pair-walnut-from-278-99-free-store-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-03T20:59:54.107Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "14-ct-liquid-iv-sugar-free-electrolyte-spider-man-raspberry-lemonade-1470--msdpqbe2",
+      "title": "14-ct Liquid I.V. Sugar Free Electrolyte (Spider-Man Raspberry Lemonade) $14.70 ",
+      "summary": "https://www.amazon.com/Liquid-I-V..._1_51?crid",
+      "sourceUrl": "https://slickdeals.net/f/19832367-14-70-amazon-spiderman-liquid-i-v-sugar-free-electrolyte-raspberry-lemonade-14-count?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-03T20:59:54.026Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "darkflash-k87pro-mechanical-keyboard-black-or-white-40-free-sh-w-prime-msdpqbbk",
+      "title": "darkFlash K87PRO Mechanical Keyboard (black or white) $40 + Free S&H w/ Prime",
+      "summary": "*Woot!* [woot.com] has *darkFlash K87PRO Mechanical Keyboard *(Black) for *$39.99*. \n*Shipping is free* for Amazon Prime Members (must login with your Amazon account and select a shipping address in...",
+      "sourceUrl": "https://slickdeals.net/f/19836681-39-99-darkflash-k87pro-mechanical-keyboard-black-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-03T20:59:53.936Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "pyle-waterproof-wall-mount-bluetooth-speaker-system-for-105-free-shipping-w-prim-msdpqasl",
+      "title": "Pyle Waterproof Wall Mount Bluetooth Speaker System for $105 + free shipping w/ Prime",
+      "summary": "This Pyle wall mount speaker system is $105.39, down from its regular price of $142.99. That's the lowest price ever on Amazon. The pair includes both an active and passive speaker with waterproof, weatherproof cabinets, making them suitable for outdoor spots like a pool or patio. Buy Now at Amazon\n \n Features\n  \n5.25\" subwoofers with 1\" polymer dome tweeters\n 240-watt peak power output (20W + 20W",
+      "sourceUrl": "https://www.dealnews.com/Pyle-Waterproof-Wall-Mount-Bluetooth-Speaker-System-for-105-free-shipping-w-Prime/21964176.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-03T20:59:53.253Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "vans-mens-or-womens-authentic-shoe-marshmallow-white-15-more-free-sh-on-50-msdiwb87",
       "title": "Vans Men's or Women's Authentic Shoe (Marshmallow White) $15 & More + Free S&H on $50+",
       "summary": "Vans is offering *40% Off Select Men's, Women's, or Kids' Sale Styles* (discount reflected on the page). *Shipping is free* on $50+ orders w/ Vans Family Membership (free to join); alternatively,...",
