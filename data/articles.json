@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "appllama-mse9xjd2",
+      "title": "Appllama",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/appllama",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-04T06:25:23.270Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "mascotai-mse9xjah",
+      "title": "MascotAI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/mascotai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-04T06:25:23.177Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ugreen-hitune-s3-open-ear-bluetooth-wireless-headphones-16-more-mse9xj6y",
+      "title": "UGREEN HiTune S3 Open Ear Bluetooth Wireless Headphones $16 & More",
+      "summary": "UGREEN GROUP LIMITED via Amazon [amazon.com] has *UGREEN HiTune S3 Open Ear Earbuds Bluetooth 5.4 Clip On Wireless Headphones *on sale for *$15.99 *with code *GZBAVANP* at checkout. *Shipping is...",
+      "sourceUrl": "https://slickdeals.net/f/19839327-ugreen-hitune-s3-open-ear-bluetooth-wireless-headphones-16-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-04T06:25:23.050Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "21-ego-power-56v-brushless-push-battery-lawn-mower-w-60ah-battery-charger-400-fr-mse9xj4o",
+      "title": "21\" EGO POWER+ 56V Brushless Push Battery Lawn Mower w/ 6.0Ah Battery & Charger $400 + Free S&H",
+      "summary": "Lowe's [lowes.com] has *EGO POWER+ 600 Series 21\" 56V Brushless Push Battery Lawn Mower w/ 6.0Ah Battery (LM2114)* on sale for *$399.00*. *Shipping is free.* \n \nAce Hardware [acehardware.com] has...",
+      "sourceUrl": "https://slickdeals.net/f/19834617-ego-power-600-series-21-56v-brushless-push-battery-lawn-mower-w-6-0ah-battery-lm2114-399-00-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-04T06:25:22.968Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "32-msi-mag-4k-uhd-qd-oled-g-sync-240hz-gaming-monitor-600-free-sh-mse9xj25",
+      "title": "32\" MSI MAG 4K UHD QD-OLED G-SYNC 240Hz Gaming Monitor $600 + Free S&H",
+      "summary": "Best Buy [bestbuy.com] has *32\" MSI MAG 4K UHD QD-OLED G-SYNC 240Hz Gaming Monitor* for *$599.99*. *Shipping is free*. Otherwise, select free store pickup where available. \n...",
+      "sourceUrl": "https://slickdeals.net/f/19839090-32-msi-mag-4k-uhd-qd-oled-g-sync-240hz-gaming-monitor-600-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-04T06:25:22.877Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "unlocked-google-pixel-fold-5g-smartphone-for-460-free-shipping-w-prime-mse9xilx",
+      "title": "Unlocked Google Pixel Fold 5G Smartphone for $460 + free shipping w/ Prime",
+      "summary": "We've pictured the Google Pixel Fold 5G Smartphone with 256GB of storage, now $459.99 at Woot, down from the $1,799 reference price. This unlocked foldable phone works with Google Fi, Verizon, T-Mobile, AT&T, and other major carriers, and runs on Google's Tensor G2 chip with a triple rear camera system. Prime members get free standard shipping on this order. Buy Now at Woot! An Amazon Company\n \n F",
+      "sourceUrl": "https://www.dealnews.com/Unlocked-Google-Pixel-Fold-5-G-Smartphone-for-460-free-shipping-w-Prime/21969781.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-04T06:25:22.293Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "qwen38-max-mse0xk2q",
       "title": "Qwen3.8-Max",
       "summary": "Discussion\n            |\n            Link",
