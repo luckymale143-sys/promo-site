@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "keystroke-msh4vmoq",
+      "title": "Keystroke",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/keystroke-2",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-06T06:27:14.714Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "adant-ai-msh4vmmg",
+      "title": "AdAnt AI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/adant-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-06T06:27:14.632Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "capacity-desktop-msh4vmjh",
+      "title": "Capacity Desktop",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/capacity",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-06T06:27:14.525Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "perlegear-ultra-slim-11-low-profile-tv-wall-mount-for-42-90-tvs-35-free-sh-msh4vmfi",
+      "title": "Perlegear Ultra Slim 1.1\" Low Profile TV Wall Mount for 42-90\" TVs $35 + Free S&H",
+      "summary": "Bestergo Direct via Amazon [amazon.com] has *Perlegear Ultra Slim 1.1\" Low Profile TV Wall Mount for 42-90\" TVs* (PGTVM65B-LF-US) on sale for $69.99 - $35 (50%) when you apply promo code HP7VZ5G5 at...",
+      "sourceUrl": "https://slickdeals.net/f/19839705-perlegear-ultra-slim-1-1-low-profile-tv-wall-mount-for-42-90-tvs-35-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-06T06:27:14.382Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "sabrent-nvme-m2-ssd-to-pcie-x16x8x4-adapter-card-w-aluminum-heatsink-1350--msh4vmch",
+      "title": "SABRENT NVMe M.2 SSD to PCIe X16/X8/X4 Adapter Card w/ Aluminum Heatsink $13.50 ",
+      "summary": "Amazon [amazon.com] has *Sabrent NVMe M.2 SSD to PCIe Card w/ Aluminum Heat Sink* for *$13.49*. \n*Shipping is free* with Prime or on $35+ orders. \n \n*** Previous *Frontpage Deal* at *$14* with *53*...",
+      "sourceUrl": "https://slickdeals.net/f/19833876-13-49-sabrent-nvme-m-2-ssd-to-pcie-card-w-aluminum-heat-sink-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-06T06:27:14.273Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "22-lb-lavazza-espresso-barista-gran-crema-whole-bean-coffee-blend-1350-w-ss-msh4vm9f",
+      "title": "2.2-Lb Lavazza Espresso Barista Gran Crema Whole Bean Coffee Blend $13.50 w/ S&S",
+      "summary": "Amazon has *2.2-Lb Lavazza Espresso Barista Gran Crema Whole Bean Coffee Blend* on sale for $14.99 - $1.50 (10%) off when you check out via Subscribe & Save = *$13.49*. *Shipping is free* w/ Prime or...",
+      "sourceUrl": "https://slickdeals.net/f/19809987-sns-13-49-2-2-lb-lavazza-whole-bean-coffee-espresso-barista-gran-crema-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-06T06:27:14.163Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "3-speed-lasko-20-weather-resistant-motor-box-fan-w-1710-cfm-airflow-1985--msgw337e",
       "title": "3-Speed Lasko 20\" Weather-Resistant Motor Box Fan (w/ 1710 CFM Airflow) $19.85 ",
       "summary": "Walmart [walmart.com] has *20\" Lasko Weather-Resistant Motor 3-Speeds Box Fan* (B20200, White) for *$19.87*. Shipping is free w/ Walmart+ (free trial available [walmart.com]) or on orders $35+ or...",
