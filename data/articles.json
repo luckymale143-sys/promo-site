@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "whop-cli-msjeow9l",
+      "title": "Whop CLI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/whop-cli",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-07T20:37:29.049Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "garveehome-seer-19-12000btu-115v-mini-split-air-conditioner-441-free-sh-msjeow3o",
+      "title": "GarveeHome SEER 19 12000BTU 115V Mini Split Air Conditioner $441 + Free S&H",
+      "summary": "Amazon [amazon.com] has *GarveeHome SEER 19 12000BTU 115V Mini Split Air Conditioner* for *$440.98*. \n*Shipping is free*. \n \n*** *Deal history:*[list][*]*🔥Frontpage Deal* at *$441* with *443* Deal...",
+      "sourceUrl": "https://slickdeals.net/f/19831248-440-98-garveehome-seer-19-12000btu-115v-mini-split-air-conditioner-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-07T20:37:28.836Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "814-pc-lego-animal-crossing-creative-houses-seasons-of-fun-77057-54-free-sh-msjeow1m",
+      "title": "814-Pc LEGO Animal Crossing Creative Houses: Seasons of Fun (77057) $54 + Free S&H",
+      "summary": "Amazon [amazon.com] has *814-Piece LEGO Animal Crossing - Creative Houses: Seasons of Fun *(77057, 2025) for $88.12 - $34.14 when you 'clip' the coupon on product page = *$53.98*. \n*Shipping is...",
+      "sourceUrl": "https://slickdeals.net/f/19853295-814-pc-lego-animal-crossing-creative-houses-seasons-of-fun-77057-54-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-07T20:37:28.762Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "columbia-mens-wingard-polarized-semi-rimless-wrap-sunglasses-24-more-free-sh-msjeovzf",
+      "title": "Columbia Men's Wingard Polarized Semi-Rimless Wrap Sunglasses $24 & More + Free S&H",
+      "summary": "Eyedictive [eyedictive.com] has *Columbia Wingard Polarized Semi-Rimless Wrap Sunglasses* on sale for *$24* when you apply coupon code 6DR4ZXS20 at checkout. *Shipping is free*. \n \n*Also...",
+      "sourceUrl": "https://slickdeals.net/f/19819536-columbia-men-s-wingard-polarized-semi-rimless-wrap-sunglasses-24-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-07T20:37:28.683Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "target-cell-phone-accessories-sale-30-off-free-shipping-msjeovh0",
+      "title": "Target Cell Phone Accessories Sale: 30% off + free shipping",
+      "summary": "Target is taking 30% off cell phone accessories, covering cases, grips, and screen protectors from brands like OtterBox, Kate Spade, Kendra Scott, and Velvet Caviar. We've pictured the dealworthy iPhone 17 Pro Rugged Phone Case for $10.49 ($5 off). This deal ends August 9 at 2:59 AM ET. Shop Now at Target\n \n Features\n  \nIncludes phone cases from OtterBox, Kate Spade, Kendra Scott, and Velvet Cavia",
+      "sourceUrl": "https://www.dealnews.com/Target-Cell-Phone-Accessories-Sale-30-off-free-shipping/21985517.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-07T20:37:28.020Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "bose-solo-soundbar-series-ii-for-140-free-shipping-msjeov9b",
+      "title": "Bose Solo Soundbar Series II for $140 + free shipping",
+      "summary": "This Bose Solo Soundbar Series II is $40 off the regular $179.99 price at Costco. Shipping is free. Offer ends August 23.  Buy Now at Costco\n \n Features\n  \nDialogue Mode helps make speech easier to hear\n Compact design fits under most TVs\n Built-in Dolby decoding for enhanced audio\n Spatial & natural audio sound processing\n Includes remote control and wall mounting bracket",
+      "sourceUrl": "https://www.dealnews.com/products/Bose/Bose-Solo-Soundbar-Series-II/515410.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-07T20:37:27.743Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "adidas-mens-run-70s-20-shoes-6-colors-from-2160-free-sh-msj6mk8w",
       "title": "adidas Men's RUN 70s 2.0 Shoes (6 Colors) from $21.60 + Free S&H",
       "summary": "adidas men RUN 70s 2.0 Shoes (6 Colors) from *$21.60* \n \nApply code *FIRSTBELL20* at checkout. \n \nFree shipping. \n \n_Available_ \n* Grey One / Grey Three / Core Black *$21,60* \n* Grey Strata / Cloud...",
