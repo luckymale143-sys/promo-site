@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "slug": "why-airlines-are-warning-over-lithium-ion-batteries-mslc5ar1",
+      "title": "Why airlines are warning over lithium-ion batteries",
+      "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC News",
+      "date": "2026-08-09T05:01:47.821Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "meta-fined-567m-in-largest-child-safety-ruling-against-social-media-giant-mslc5aon",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC News",
+      "date": "2026-08-09T05:01:47.735Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
       "slug": "is-football-ai-proof-why-tech-investors-wanted-a-slice-of-the-world-cup-msl4fna4",
       "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
