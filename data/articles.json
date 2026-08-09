@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "prompt-golf-msm0r4pv",
+      "title": "Prompt Golf",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/prompt-golf",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-09T16:30:37.219Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "good-assistant-2-msm0r4o8",
+      "title": "Good Assistant 2",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/good-assistant",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-09T16:30:37.160Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "soup-cli-msm0r4mm",
+      "title": "Soup CLI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/soup-cli",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-09T16:30:37.102Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "nike-mens-air-trainer-huarache-shoes-challenge-red-from-70--msm0r4g9",
+      "title": "Nike Men's Air Trainer Huarache Shoes (Challenge Red) From $70 ",
+      "summary": "Nike Men's Air Trainer Huarache Shoes (Challenge Red / Challenge Red / Challenge Red / Black) *$95.23* \n \nApply code *DAYONE* at checkout. \n \nNike Members get free shipping over $50 (free to join). \n...",
+      "sourceUrl": "https://slickdeals.net/f/19825164-nike-men-s-air-trainer-huarache-shoes-challenge-red-from-70?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-09T16:30:36.873Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "11-pc-dremel-diamond-grit-carving-engraving-rotary-accessory-kit-10--msm0r4ez",
+      "title": "11-Pc Dremel Diamond Grit Carving & Engraving Rotary Accessory Kit $10 ",
+      "summary": "Lowe's [lowes.com] has *Dremel 11-Piece Diamond Grit Carving & Engraving Rotary Accessory Kit (729-01)* on sale for *$9.98*. Select *free store pickup* where available, otherwise shipping is free on...",
+      "sourceUrl": "https://slickdeals.net/f/19851375-11-piece-dremel-diamond-grit-carving-engraving-rotary-accessory-kit-729-01-9-98-free-store-pickup-at-lowe-s-or-free-shipping-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-09T16:30:36.827Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "prime-members-huanuo-ergonomic-high-back-office-chair-w-adjustable-lumbarheadres-msm0r4d2",
+      "title": "Prime Members: HUANUO Ergonomic High Back Office Chair w/ Adjustable Lumbar/Headrest $62.70 + Free S&H",
+      "summary": "Bestergo Direct via Amazon [amazon.com] has for _Prime Members_: *HUANUO Ergonomic High Back Office Chair w/ Adjustable Lumbar, 2D Headrest & 3D Armrests* (MSOC10B-US) on sale for $109.99 -...",
+      "sourceUrl": "https://slickdeals.net/f/19854303-prime-members-huanuo-ergonomic-high-back-office-chair-w-adjustable-lumbar-2d-headrest-3d-armrests-62-70-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-09T16:30:36.758Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "docsalot-cli-mslsmny4",
       "title": "DocsAlot CLI",
       "summary": "Discussion\n            |\n            Link",
