@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "lexi-mspfcw2c",
+      "title": "Lexi",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/lexi-5",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-12T01:42:45.588Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "five-nights-at-freddys-2-4k-ultra-hd-blu-ray-digital-1010-free-sh-mspfcvvp",
+      "title": "Five Nights at Freddy's 2 (4K Ultra HD + Blu-ray + Digital) $10.10 + Free S&H",
+      "summary": "*VIP Outlet via eBay* \n \n* Five Nights at Freddy's 2 [ebay.com] (4K Ultra HD + Blu-ray + Digital) \n  * *$10.12* w/ code * VIPAUGTAKE8* \n \n \nThis title is Movies Anywhere compatible \n \nFree returns...",
+      "sourceUrl": "https://slickdeals.net/f/19862445-five-nights-at-freddy-s-2-4k-ultra-hd-blu-ray-digital-10-12-free-s-h-ebay?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-12T01:42:45.349Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "refurbished-irobot-roomba-combo-j5-self-emptying-robot-vacuum-mop-149-free-sh-mspfcvsa",
+      "title": "Refurbished: iRobot Roomba Combo j5+ Self-Emptying Robot Vacuum & Mop $149 + Free S&H",
+      "summary": "iRobot via eBay has Cert. Refurb: iRobot Roomba Combo j5+ Self-Emptying Robot Vacuum & Mop on sale for *$149.00* after apply coupon code *BRANDS20* at checkout. Shipping is free. \n...",
+      "sourceUrl": "https://slickdeals.net/f/19865205-cert-refurb-irobot-roomba-combo-j5-self-emptying-robot-vacuum-mop-149-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-12T01:42:45.226Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "open-box-apple-airpods-max-2-over-ear-headphones-367-free-sh-mspfcvmv",
+      "title": "Open Box: Apple AirPods Max 2 Over-Ear Headphones $367 + Free S&H",
+      "summary": "vipoutlet via eBay [ebay.com] has *Apple AirPods Max 2 USB-C Over-Ear Headphones* (Midnight) for $399 - 8% when you apply promo code VIPAUGTAKE8 in cart = *$367.08.* Shipping is free. \n \nNew Damaged...",
+      "sourceUrl": "https://slickdeals.net/f/19868670-new-damaged-box-apple-airpods-max-2-usb-c-over-ear-headphones-midnight-367-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-12T01:42:45.031Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "20000mah-power-bank-for-21-free-shipping-w-35-mspfcv6q",
+      "title": "20000mAh Power Bank for $21 + free shipping w/ $35",
+      "summary": "This power bank is $20.95, down from $129.99 at Walmart. It packs a 20,000mAh capacity with 22.5W fast charging across a USB-C port and two USB-A ports, plus an LED display to track battery level and charging status. Spend $35 for free shipping. Otherwise, shipping adds $6.99.  Buy Now at Walmart\n \n Features\n  \n20,000mAh battery capacity\n 22.5W fast charging with PD 3.0 and QC4+ support\n One USB-C",
+      "sourceUrl": "https://www.dealnews.com/20000-m-Ah-Power-Bank-for-21-free-shipping-w-35/22005026.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-12T01:42:44.450Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "energizer-3-in-1-15w-foldable-qi-certified-wireless-charger-for-17-free-shipping-mspfcv27",
+      "title": "Energizer 3-in-1 15W Foldable Qi Certified Wireless Charger for $17 + free shipping",
+      "summary": "Best Buy offers the Energizer 3-in-1 15W Foldable Qi Certified Wireless Charger for $16.99.  That's a $23 savings.  My Best Buy members get free shipping on all orders (it's free to join). Buy Now at Best Buy\n \n Features\n  \nCharges a phone, earbuds, & Apple Watch at the same time",
+      "sourceUrl": "https://www.dealnews.com/products/Energizer/Energizer-3-in-1-15-W-Foldable-Qi-Certified-Wireless-Charger/517187.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-12T01:42:44.287Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "nike-mens-kobe-air-force-1-low-shoes-2-colors-from-7125-free-sh-msp4j84t",
       "title": "Nike Men's Kobe Air Force 1 Low Shoes (2 Colors) from $71.25 + Free S&H",
       "summary": "Nike [nike.com] has Nike Men's Kobe Air Force 1 Low Shoes (2 Colors) from *$71.23 *when you apply promo code DAYONE at checkout.  Nike Members get free shipping over $50 (free to join). \n...",
