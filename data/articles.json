@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "samsung-has-new-galaxy-headphones-in-the-works-mstvjijr",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones since the Level On in 2015, which was released we",
+      "sourceUrl": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "sourceName": "The Verge",
+      "date": "2026-08-15T04:26:53.223Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "munder-difflin-mstvjif1",
+      "title": "Munder Difflin",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/munder-difflin",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-15T04:26:53.053Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "port22-mstvjiap",
+      "title": "Port22",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/port22",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-15T04:26:52.897Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "4-pk-westcott-8-titanium-bonded-scissors-blackgold-810--mstvji5o",
+      "title": "4-Pk Westcott 8\" Titanium-Bonded Scissors (Black/Gold) $8.10 ",
+      "summary": "$8.17 and free shippkng with prime. \n \nWestcott 55848 8-Inch Titanium-Bonded Scissors For Office and Home, Black/Gold, 4 Pack https://www.amazon.com/dp/B08839HD65 \n...",
+      "sourceUrl": "https://slickdeals.net/f/19877190-4-pack-westcott-8-inch-titanium-bonded-scissors-black-gold-8-17-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-15T04:26:52.716Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "walter-hagen-mens-performance-11-bloom-full-zip-woven-golf-jacket-navywhite-1275-mstvji2q",
+      "title": "Walter Hagen Men's Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
+      "summary": "Dick's Sporting Goods [dickssportinggoods.com] has *Walter Hagen Men's Performance 11 Bloom Full-Zip Woven Golf Jacket* on sale for *$12.73*. Scorecard members get free shipping on orders of $49 or...",
+      "sourceUrl": "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-15T04:26:52.610Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "google-pixelsnap-qi2-wireless-charger-w-stand-fog-29-free-sh-mstvjhz9",
+      "title": "Google Pixelsnap Qi2 Wireless Charger w/ Stand (Fog) $29 + Free S&H",
+      "summary": "Showing as a clearance item at Best Buy. Free shipping was available. Also available at eBay for the same price, but I was being charged a shipping fee. \n...",
+      "sourceUrl": "https://slickdeals.net/f/19878492-google-pixelsnap-qi2-wireless-charger-w-stand-fog-29-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-15T04:26:52.485Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "50-samsung-un50u8000hfxza-uhd-4k-smart-tizen-tv-2026-250-free-sh-mstoahlq",
       "title": "50\" Samsung UN50U8000HFXZA UHD 4K Smart Tizen TV (2026) $250 + Free S&H",
       "summary": "Amazon [amazon.com] has *50\" Samsung U8000H Crystal UHD 4K 60Hz Smart TV (2026)* on sale for *$249.99*. *Shipping is free.* \n \nBest Buy [bestbuy.com] has *50\" Samsung Class U8000H Series UHD 4K Smart...",
