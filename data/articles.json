@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "chatgpts-computer-history-tracks-your-clicks-and-keystrokes-msw0hebk",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and webs",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "sourceName": "The Verge",
+      "date": "2026-08-16T16:20:44.864Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "expeditione-msw0he5x",
+      "title": "Expeditione",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/expeditione",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-16T16:20:44.661Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "costlogic-msw0he34",
+      "title": "CostLogic",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/costlogic",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-16T16:20:44.560Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "milwaukee-m12-6-12v-brushless-pruning-chainsaw-w-2x-5ah-batteries-charger-199-fr-msw0hdwk",
+      "title": "Milwaukee M12 6\" 12V Brushless Pruning Chainsaw w/ 2x 5Ah Batteries & Charger $199 + Free S&H",
+      "summary": "Home Depot [homedepot.com] has *Milwaukee M12 FUEL 6\" Brushless Cordless Pruning Hatchet Mini Chainsaw w/ 2x 5.0Ah Batteries & Charger* on sale for *$199*. *Shipping is free.*...",
+      "sourceUrl": "https://slickdeals.net/f/19883916-milwaukee-m12-fuel-6-brushless-cordless-pruning-hatchet-mini-chainsaw-w-2x-5-0ah-batteries-charger-199-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-16T16:20:44.324Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "joyroom-360-adjustable-magsafe-suction-cup-phone-mount-dark-blue-10--msw0hdty",
+      "title": "Joyroom 360° Adjustable MagSafe Suction Cup Phone Mount (Dark Blue) $10 ",
+      "summary": "ANWAS via Amazon [amazon.com] has *Joyroom 360° Adjustable MagSafe Suction Cup Phone Mount (Dark Blue) *on sale for $19.99 - 50% off when you apply promo code DK5N5GXM at checkout = *$9.99*. Shipping...",
+      "sourceUrl": "https://slickdeals.net/f/19830264-joyroom-360-adjustable-magsafe-suction-cup-phone-mount-dark-blue-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-16T16:20:44.230Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "2-pk-18-oz-dawn-platinum-ez-squeeze-dish-soap-560-w-ss-msw0hdrc",
+      "title": "2-Pk 18-Oz Dawn Platinum EZ-Squeeze Dish Soap $5.60 w/ S&S",
+      "summary": "Amazon [amazon.com] has *2-Pack 18-Oz Dawn Platinum EZ-Squeeze Dish Soap* for $7.98 - $2 when you 'clip' the coupon on product page - 5% when you check out via Subscribe & Save = *$5.58*. \n*Shipping...",
+      "sourceUrl": "https://slickdeals.net/f/19884249-sns-ac-5-58-2-pack-18-oz-dawn-platinum-ez-squeeze-dish-soap-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-16T16:20:44.136Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "tcl-75-class-s5-4k-uhd-hdr-led-tv-w-google-tv-75s571g-2024-398-free-sh-msvscyq8",
       "title": "TCL 75\" Class S5 4K UHD HDR LED TV w/ Google TV (75S571G, 2024) $398 + Free S&H",
       "summary": "Walmart has *TCL 75\" Class S5 4K UHD HDR LED TV with Google TV *(75S571G, 2024) for *$398*. *Shipping is free*. \n \nThanks to Deal Hunter *ppxyz1* for sharing this deal. \n \n*Specs*:[LIST][*]Native...",
