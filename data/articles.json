@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "rogue-ai-arent-science-fiction-anymore-msw8yveo",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environme",
+      "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "sourceName": "The Verge",
+      "date": "2026-08-16T20:18:17.088Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "amazon-is-trying-to-crush-class-action-suits-before-they-get-started-msw8yvbj",
+      "title": "Amazon is trying to crush class-action suits before they get started",
+      "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. \nAmazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would prevent customers from seeking the involvement of a judge or jury in most ",
+      "sourceUrl": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "sourceName": "The Verge",
+      "date": "2026-08-16T20:18:16.975Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "chert-msw8yv7r",
+      "title": "Chert",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/chert",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-16T20:18:16.839Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "jcrew-select-womens-swim-shirts-dresses-more-extra-75-off-free-sh-msw8yv1m",
+      "title": "J.Crew: Select Women's Swim, Shirts, Dresses & More Extra 75% Off + Free S&H",
+      "summary": "J. Crew offers extra 75% off select women's sale swim, shirt, an dresses [jcrew.com] with promo code:  *SALETIME*.  Shipping is free for J. Crew Passport Rewards Members (free to join [jcrew.com]). ...",
+      "sourceUrl": "https://slickdeals.net/f/19883229-j-crew-select-women-s-swim-shirts-dresses-more-extra-75-off-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-16T20:18:16.618Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "costco-members-infinity-x1-7000l-dual-power-rechargeable-flashlight-20-free-sh-msw8yuyb",
+      "title": "Costco Members: Infinity X1 7000L Dual Power Rechargeable Flashlight $20 + Free S&H",
+      "summary": "Infinity X1 7000L Dual Power Rechargeable Flashlight \n \nCostco online with free shipping for $19.99 only 2 dollars more and you get it delivered to your door. \n...",
+      "sourceUrl": "https://slickdeals.net/f/19883520-costco-infinity-x1-7000l-dual-power-rechargeable-flashlight-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-16T20:18:16.499Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "klipsch-the-three-plus-premium-bluetooth-speaker-system-for-200-free-shipping-msw8yu9j",
+      "title": "Klipsch The Three Plus Premium Bluetooth Speaker System for $200 + free shipping",
+      "summary": "This Klipsch The Three Plus speaker is $199.99 at Amazon.  Shipping is free.  That's a $175 low and its best price in years. Buy Now at Amazon\n \n Features\n  \n2.1 stereo system with dual 2.25\" full-range drivers and a 5.25\" woofer\n Includes Phono/RCA inputs for connecting a turntable\n Bluetooth 5.3 wireless streaming with up to 40 ft. of range\n USB-C port for device playback and reverse charging\n B",
+      "sourceUrl": "https://www.dealnews.com/products/Klipsch/Klipsch-The-Three-Plus-Premium-Bluetooth-Speaker-System/520231.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-08-16T20:18:15.607Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "chatgpts-computer-history-tracks-your-clicks-and-keystrokes-msw0hebk",
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
       "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and webs",
