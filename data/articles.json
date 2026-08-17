@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "secondhand-book-sales-are-booming-is-it-because-of-ai-mswqte8s",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC News",
+      "date": "2026-08-17T04:37:54.652Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "if-meta-loses-this-trial-instagram-and-facebook-could-change-forever-mswqte73",
+      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC News",
+      "date": "2026-08-17T04:37:54.591Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece-mswqte1r",
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold.\nEagle's subject matter is usually personal, and ",
+      "sourceUrl": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "sourceName": "The Verge",
+      "date": "2026-08-17T04:37:54.399Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "dji-mini-5-pro-fly-more-combo-dji-rc-2-84050-or-less-free-sh-mswqtdwe",
+      "title": "DJI Mini 5 Pro Fly More Combo (DJI RC 2) $840.50 or less + Free S&H",
+      "summary": "*Now $840.50* w/ promo code AFFUS130 \n \nOn sale for $972.09. Total drops to *$902.09 + tax* after using $70 promo code YAECHOICE70 at checkout. (If that runs out, try these backup codes: YUSAF70 or...",
+      "sourceUrl": "https://slickdeals.net/f/19847949-dji-mini-5-pro-fly-more-combo-dji-rc-2-4k-drone-1-inch-cmos-3-batteries-obstacle-sensing-free-s-h-902-09?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-17T04:37:54.206Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "4-pk-frogtape-prograde-141-x-60-yd-high-adhesion-orange-painters-tape-1055--mswqtduq",
+      "title": "4-Pk FrogTape ProGrade 1.41\" x 60 yd High-Adhesion Orange Painter's Tape $10.55 ",
+      "summary": "Amazon [amazon.com] has *4-Pack FrogTape ProGrade 1.41\" x 60 yd High-Adhesion Painter's Tape (Orange)* on sale for *$10.56*. Shipping is free w/ Prime or on orders $35+. \n \n \n*From Merchant's Product...",
+      "sourceUrl": "https://slickdeals.net/f/19886370-4-pack-frogtape-prograde-1-41-x-60-yd-high-adhesion-painter-s-tape-orange-10-56-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-17T04:37:54.146Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "200w-renogy-portable-ip65-foldable-solar-panel-8460-free-sh-mswqtdsr",
+      "title": "200W Renogy Portable IP65 Foldable Solar Panel $84.60 + Free S&H",
+      "summary": "*Renogy Solar Store (Brand+) *via AliExpress [aliexpress.us] has the High Quality* Renogy 200W E-Flex Core IP65 Waterproof Portable Foldable Solar Panel on sale for $96* when you *Apply $16 off...",
+      "sourceUrl": "https://slickdeals.net/f/19832802-200w-renogy-portable-ip65-foldable-solar-panel-84-60-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-17T04:37:54.075Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "openai-reportedly-disbanded-its-preparedness-team-mswj7yc6",
       "title": "OpenAI reportedly disbanded its preparedness team",
       "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, t",
