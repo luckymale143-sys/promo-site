@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "protonote-mt2ghh5u",
+      "title": "ProtoNote",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/protonote",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-21T04:35:19.458Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "peach-co-pilot-mt2ghh3v",
+      "title": "Peach Co-Pilot",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/peach-co-pilot",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-21T04:35:19.387Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "shape-mt2ghh1k",
+      "title": "Shape",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/shape-5",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-21T04:35:19.304Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "htm-vibration-plate-exercise-machine-w-9-modes-120-speeds-4250-free-sh-mt2ghgyb",
+      "title": "HTM Vibration Plate Exercise Machine w/ 9 Modes & 120 Speeds $42.50 + Free S&H",
+      "summary": "eCoupon at checkout: EARO42XZ \n \nNote: Promo codes are typically for one-time use and don't always apply seamlessly. If you run into this issue, refresh the page, re-enter the code, or revisit the...",
+      "sourceUrl": "https://slickdeals.net/f/19902087-vibration-plate-exercise-machine-vibrating-platform-with-resistance-bands-slot-300-lbs-capacity-120-speed-9-workout-modes-42-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-21T04:35:19.187Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "57-samsung-odyssey-neo-g9-240hz-dual-4k-curved-monitor-27-1080p-monitor-1260-fre-mt2ghgvt",
+      "title": "57\" Samsung Odyssey Neo G9 240Hz Dual 4K Curved Monitor + 27\" 1080p Monitor $1260 + Free S&H",
+      "summary": "Samsung [samsung.com] has *57\" Samsung Odyssey Neo G9 240Hz Dual 4K Curved Gaming Monitor + 27\" Essential S30GD 1080p 100Hz IPS Monitor* for *$1260 *when you follow the instructions below. *Shipping...",
+      "sourceUrl": "https://slickdeals.net/f/19901823-57-samsung-odyssey-neo-g9-240hz-dual-4k-curved-gaming-monitor-27-1080p-100hz-ips-monitor-1260-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-21T04:35:19.097Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "champion-classic-canvas-insulated-lunch-tote-w-front-slip-pocket-1570--mt2ghgse",
+      "title": "Champion Classic Canvas Insulated Lunch Tote w/ Front Slip Pocket $15.70 ",
+      "summary": "Amazon [amazon.com] has *Champion Classic Canvas Insulated Lunch Tote w/ Front Slip Pocket & Bottle Loop* on sale for *$15.73*. Shipping is free w/ Prime or on orders $35+.",
+      "sourceUrl": "https://slickdeals.net/f/19901124-champion-classic-canvas-insulated-lunch-tote-w-front-slip-pocket-bottle-loop-15-73-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-21T04:35:18.974Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "meetstream-ai-mt2921j2",
       "title": "MeetStream AI",
       "summary": "Discussion\n            |\n            Link",
