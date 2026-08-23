@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "slug": "how-landscape-gardening-is-being-electrified-mt53zpo9",
+      "title": "How landscape gardening is being electrified",
+      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC News",
+      "date": "2026-08-23T01:08:53.817Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "agents-never-sleep-mt53zpba",
+      "title": "Agents Never Sleep",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/agents-never-sleep",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-08-23T01:08:53.350Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "coleman-skylodge-4-person-instant-camping-tent-blackberry-19260-more-free-sh-mt53zp5h",
+      "title": "Coleman Skylodge 4-Person Instant Camping Tent (Blackberry) $192.60 & More + Free S&H",
+      "summary": "Coleman Skylodge Instant Tent with Rainfly, Family Tent Sets Up in a Minute, Includes Pre-Attached Poles & Carry Bag, Made of PFAS-Free Materials \n4-person [amazon.com] $213.99 \n6-person [amazon.com]...",
+      "sourceUrl": "https://slickdeals.net/f/19909911-coleman-skylodge-instant-tent-with-rainfly-4-6-8-person-family-tent-sets-up-in-a-minute-includes-pre-attached-poles-carry-bag-from-213-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-23T01:08:53.141Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "refurb-ninja-creami-xl-deluxe-11-in-1-ice-cream-frozen-treat-maker-100-free-sh-w-mt53zp2o",
+      "title": "Refurb: Ninja CREAMi XL Deluxe 11-in-1 Ice Cream & Frozen Treat Maker $100 + Free S&H w/ Prime",
+      "summary": "Woot [woot.com] is offering Refurb: Ninja CREAMi Deluxe 11-in-1 Ice Cream & Frozen Treat Maker w/ 4 Pints and 2 Lids on sale for *$99.99.* Log in with your Prime account to receive free shipping,...",
+      "sourceUrl": "https://slickdeals.net/f/19911015-refurb-ninja-creami-xl-deluxe-11-in-1-ice-cream-frozen-treat-maker-100-free-s-h-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-23T01:08:53.040Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "prime-members-2-pc-vancasso-73-55-porcelain-utensil-holder-set-2250--mt53zp09",
+      "title": "Prime Members: 2-Pc vancasso 7.3\" & 5.5\" Porcelain Utensil Holder Set $22.50 ",
+      "summary": "vancasso Online Tableware Store via Amazon [amazon.com] has for *Prime Members*: *2-Pack vancasso Porcelain Countertop Utensil Holder Set *(various, 7.3\" & 5.5\") on sale for $44.99 - extra 50% off...",
+      "sourceUrl": "https://slickdeals.net/f/19907220-prime-2-pack-vancasso-porcelain-countertop-utensil-holder-set-various-7-3-5-5-22-49-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-08-23T01:08:52.953Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "tiktok-to-pay-400m-to-us-in-one-of-largest-child-privacy-settlements-mt4tmi8g",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
