@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "audacity-4-is-a-complete-revamp-of-the-worlds-most-popular-audio-editor-mtnsgr4p",
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are ",
+      "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "sourceName": "The Verge",
+      "date": "2026-09-05T02:53:50.809Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "google-gemini-38-flash-and-cyber-mtnsgr0w",
+      "title": "Google Gemini 3.8 Flash and Cyber",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-flash",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-05T02:53:50.672Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "67-oz-nivea-skin-firming-anti-wrinkle-neck-chest-cream-w-q10-creatine-360-w-ss-mtnsgqqc",
+      "title": "6.7-Oz NIVEA Skin Firming & Anti-Wrinkle Neck & Chest Cream w/ Q10 & Creatine $3.60 w/ S&S",
+      "summary": "Amazon [amazon.com] has *6.7-Oz NIVEA Skin Firming & Anti-Wrinkle Neck & Chest Cream w/ Q10 & Creatine* on sale for $7.99 -  $4 off when you clip the coupon on the product page - 5% off when you...",
+      "sourceUrl": "https://slickdeals.net/f/19973367-6-7-oz-nivea-skin-firming-anti-wrinkle-neck-chest-cream-w-q10-creatine-3-59-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-05T02:53:50.292Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "select-accts-240-ct-naturebell-500mg-magnesium-glycinate-capsules-1115-w-ss-mtnsgqnz",
+      "title": "Select Accts: 240-Ct NatureBell 500mg Magnesium Glycinate Capsules $11.15 w/ S&S",
+      "summary": "Bayland Health via Amazon has for *Select Accounts:* *240-Count NatureBell 500mg Magnesium Glycinate Capsules* on sale for $15.96 - 20% clip coupon on the page - 10% with Subscribe & Save = *$11.17*....",
+      "sourceUrl": "https://slickdeals.net/f/19969410-sns-ac-11-17-240-ct-500mg-naturebell-magnesium-glycinate-capsules-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-05T02:53:50.207Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "factory-blemished-ryobi-150w-portable-battery-inverter-power-source-tool-only-39-mtnsgqjf",
+      "title": "Factory Blemished: RYOBI 150W Portable Battery Inverter Power Source (Tool Only) $39 + Free S&H",
+      "summary": "The Factory Blemished RYOBI 18V ONE+ 150 Watt Power Source is the perfect device to keep you powered up no matter where life takes you. Ideal for charging phones, tablets, laptops and more, this...",
+      "sourceUrl": "https://slickdeals.net/f/19972383-freeshipping-ryobi-18v-150-watt-power-source-pure-sinewave-39?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-05T02:53:50.043Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "soundcraft-notepad-5-small-format-analog-mixer-for-80-free-shipping-w-prime-mtnsgpzo",
+      "title": "Soundcraft Notepad-5 Small Format Analog Mixer for $80 + free shipping w/ Prime",
+      "summary": "The Soundcraft Notepad-5 is $79.99 at Woot. Other sellers charge $125. Shipping is free for Prime members.  Buy Now at Woot! An Amazon Company\n \n Features\n  \n5-channel analog mixer with 1 microphone preamp\n 2 stereo line-level channels\n USB connectivity\n Phantom power\n Direct input for bass or guitar\n 90-day Woot limited warranty",
+      "sourceUrl": "https://www.dealnews.com/Soundcraft-Notepad-5-Small-Format-Analog-Mixer-for-80-free-shipping-w-Prime/22143037.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-09-05T02:53:49.332Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "compliance-by-twelvelabs-mtni5iit",
       "title": "Compliance by TwelveLabs",
       "summary": "Discussion\n            |\n            Link",
