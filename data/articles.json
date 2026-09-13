@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "sam-altman-says-openai-going-public-in-2026-would-be-ill-advised-mtz8e055",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions t",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "sourceName": "The Verge",
+      "date": "2026-09-13T03:05:04.313Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "openais-rogue-ai-tried-to-hack-another-company-in-may-mtz8e02q",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitiga",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "sourceName": "The Verge",
+      "date": "2026-09-13T03:05:04.226Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "kabza-mtz8dzz7",
+      "title": "Kabza",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/kabza",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-13T03:05:04.099Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "16-pk-16-oz-lrabar-gluten-free-vegan-fruit-nut-bar-banana-bread-975-w-ss-mtz8dzvi",
+      "title": "16-Pk 1.6-Oz LÄRABAR Gluten Free Vegan Fruit & Nut Bar (Banana Bread) $9.75 w/ S&S",
+      "summary": "Amazon [amazon.com] has *16-Pack 1.6-Oz LÄRABAR Gluten Free Vegan Fruit & Nut Bar *(Banana Bread) for $12.18 - 15% when you 'clip' the coupon on product page - 5% when you check out via Subscribe &...",
+      "sourceUrl": "https://slickdeals.net/f/20005101-sns-ac-9-74-16-pack-1-6-oz-l-rabar-gluten-free-vegan-fruit-nut-bar-banana-bread-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-13T03:05:03.966Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "vigrue-140a-110v-3-in-1-migflux-corestick-welder-set-70-free-sh-mtz8dztr",
+      "title": "VIGRUE 140A 110V 3-in-1 MIG/Flux Core/Stick Welder Set $70 + Free S&H",
+      "summary": "VIGRUE-KING OF SCREW via Amazon [amazon.com] has *VIGRUE 140A 3-in-1 Flux Core MIG/Stick/Lift TIG Welder w/ Digital Display, Welding Mask & Gloves* on sale for $99.99 - 30% off when you apply promo...",
+      "sourceUrl": "https://slickdeals.net/f/20003202-vigrue-140a-3-in-1-flux-core-mig-stick-lift-tig-welder-w-digital-display-welding-mask-gloves-69-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-13T03:05:03.903Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "6-pk-mens-hanes-stay-tucked-soft-cotton-undershirts-blackgreyblue-17--mtz8dzqk",
+      "title": "6-Pk Men's Hanes Stay-Tucked Soft Cotton Undershirts (Black/Grey/Blue) $17 ",
+      "summary": "Amazon [amazon.com] has *6-Pk Men's Hanes Stay-Tucked Soft Cotton Undershirts *(Black/Grey/Blue) for *$16.99*. \n*Shipping is free* with Prime or on $35+ orders.[list][*]*Black/Grey/Blue Assorted - 6...",
+      "sourceUrl": "https://slickdeals.net/f/20004651-16-99-6-pk-men-s-hanes-stay-tucked-soft-cotton-undershirts-black-grey-blue-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-13T03:05:03.788Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "stackness-mtyxco6s",
       "title": "Stackness",
       "summary": "Discussion\n            |\n            Link",
