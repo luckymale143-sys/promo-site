@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "apple-is-reportedly-working-on-iphone-game-controllers-mu0obcjo",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices.\nDespite the code being found in macOS, ",
+      "sourceUrl": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "sourceName": "The Verge",
+      "date": "2026-09-14T03:18:40.452Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "cognitions-swe-2-mu0obcdt",
+      "title": "Cognition's SWE-2",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/cognition-s-swe-2",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-14T03:18:40.241Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "perplexity-hybrid-compute--mu0obccm",
+      "title": "Perplexity Hybrid Compute ",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/perplexity-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-14T03:18:40.198Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "schwinn-rear-bike-rack-fits-24-29-700c-wheels-supports-26-lbs-cargo-1325--mu0obc64",
+      "title": "Schwinn Rear Bike Rack (Fits 24\"-29\" & 700c Wheels, Supports 26 Lbs Cargo) $13.25 ",
+      "summary": "Amazon.com has Schwinn Rear Bike Rack, 26 lb Capacity, Lightweight, Compact and Durable Construction, Fits Most Adult Bicycle Frames, Cargo Options for Backpack, Baskets & More, Bicycle Rack for Back...",
+      "sourceUrl": "https://slickdeals.net/f/20008515-schwinn-26-lb-rear-bike-rack-1-09-l-x-6-5-w-x-16-73-h-13-24-free-s-h-w-prime-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-14T03:18:39.964Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "3-pk-no-boundaries-womens-thong-panties-blue-green-black-425--mu0obc48",
+      "title": "3-Pk No Boundaries Women's Thong Panties (Blue, Green, Black) $4.25 ",
+      "summary": "Walmart [walmart.com] has *3-Pack No Boundaries Women's Fit Stretch Lace Thong Panties* (Lemon, Green, Black; Various Sizes) on sale for *$4.27*.  Additional colorways are also on sale.  *Shipping is...",
+      "sourceUrl": "https://slickdeals.net/f/20009391-3-pack-no-boundaries-women-s-fit-stretch-lace-thong-panties-lemon-green-black-various-sizes-4-27-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-14T03:18:39.896Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "select-walmart-stores-10l-ozark-trail-polyester-daypack-backpack-2-colors-5--mu0obc1l",
+      "title": "Select Walmart Stores: 10L Ozark Trail Polyester Daypack Backpack (2 Colors) $5 ",
+      "summary": "Walmart [walmart.com] has *Ozark Trail 10L Polyester Daypack Backpack (Navy or Rose)* on sale for *$4.97*. Shipping is free w/ Walmart+ ($1 trial available [walmart.com]) or on orders $35+. \n...",
+      "sourceUrl": "https://slickdeals.net/f/20007171-ozark-trail-10l-polyester-daypack-backpack-navy-or-rose-4-97-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-14T03:18:39.801Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "trump-and-mike-johnson-think-the-ai-industry-is-overreacting-mu0d50qf",
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
       "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are bei",
