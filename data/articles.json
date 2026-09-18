@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "ami-ai-mu7ip57f",
+      "title": "Ami AI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/ami-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-18T22:15:49.659Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "aina-mu7ip56d",
+      "title": "AINA",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/aina",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-18T22:15:49.621Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "mosmos-mu7ip541",
+      "title": "MosMos",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/mosmos",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-18T22:15:49.537Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "prime-members-145-oz-amazon-grocery-petite-diced-tomatoes-4-for-295-free-sh-w-ss-mu7ip4x1",
+      "title": "Prime Members: 14.5-Oz Amazon Grocery Petite Diced Tomatoes 4 for $2.95 + Free S&H w/ S&S",
+      "summary": "Amazon [amazon.com] has *14.5-Oz Amazon Grocery Petite Diced Tomatoes* 4 for $3.44 - 10% (multibuy discount) - 5% when you check out via Subscribe & Save = *$2.93*. \n*Shipping is free* with Prime or...",
+      "sourceUrl": "https://slickdeals.net/f/20033106-sns-ac-prime-2-93-4-14-5-oz-amazon-grocery-petite-diced-tomatoes-73-4-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-18T22:15:49.285Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "onkyo-tx-nr7100-92-channel-av-receiver-599-free-sh-mu7ip4vl",
+      "title": "Onkyo TX-NR7100 9.2-Channel AV Receiver $599 + Free S&H",
+      "summary": "deal [adorama.com] \n \n*$599 + Free S/H* w/ code* JHCE8394*",
+      "sourceUrl": "https://slickdeals.net/f/20003469-onkyo-tx-nr7100-9-2-channel-av-receiver-599-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-18T22:15:49.233Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ozark-trail-mens-relaxed-fit-swim-trunks-limited-sizescolors-from-250--mu7ip4tz",
+      "title": "Ozark Trail Men's Relaxed-Fit Swim Trunks (Limited Sizes/Colors) from $2.50 ",
+      "summary": "Walmart [walmart.com] has *Ozark Trail Men's Relaxed Fit Swim Trunks* on sale from *$2.48*. Shipping is free w/ Walmart+ ($1 trial available [walmart.com]) or on orders $35+. \n \nNote: Various sizes...",
+      "sourceUrl": "https://slickdeals.net/f/20033784-ozark-trail-men-s-relaxed-fit-swim-trunks-various-sizes-and-colors-from-2-48-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-18T22:15:49.175Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "prime-members-the-hobbit-the-classic-fantasy-novel-paperback-8-free-sh-mu7bdw58",
       "title": "Prime Members: The Hobbit: The Classic Fantasy Novel (paperback) $8 + Free S&H",
       "summary": "Amazon has for *Prime Members: The Hobbit: The Classic Fantasy Novel* (paperback) on sale for *$7.99*. *Shipping is free*. \n \nThanks to Deal Hunter *phoinix* for finding this deal. \n \n*About this...",
