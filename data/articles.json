@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think-mu8xrxvv",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him ",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "sourceName": "The Verge",
+      "date": "2026-09-19T22:05:40.555Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "voicecap-mu8xrxt6",
+      "title": "VoiceCap",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/voicecap",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-19T22:05:40.458Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "squirrel-mu8xrxrt",
+      "title": "Squirrel",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/squirrel-screen-time-savings",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-19T22:05:40.409Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "prime-members-156-flytocca-fhd-ips-laptop-screen-extender-66-free-sh-mu8xrxmw",
+      "title": "Prime Members: 15.6\" FLYTOCCA FHD IPS Laptop Screen Extender $66 + Free S&H",
+      "summary": "FLYTOCCA Direct via Amazon has the FLYTOCCA 15.6\" Laptop Screen Extender for $119.99. Apply promo code 6OL8DID3 at checkout = $65.99. \n \nProduct Link: https://www.amazon.com/dp/B0GZK66KJL \n* Promo...",
+      "sourceUrl": "https://slickdeals.net/f/20034240-amazon-flytocca-15-6-laptop-screen-extender-65-99-w-code?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-19T22:05:40.232Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "254-oz-chosen-foods-100-pure-avocado-oil-1205-w-ss-mu8xrxlh",
+      "title": "25.4-Oz Chosen Foods 100% Pure Avocado Oil $12.05 w/ S&S",
+      "summary": "Amazon [amazon.com] has *25.4-Oz Chosen Foods 100% Pure Avocado Oil* for $12.67 - 5% when you check out via Subscribe & Save = *$12.04*. \n*Shipping is free* with Prime or on $35+ orders. \n \n***...",
+      "sourceUrl": "https://slickdeals.net/f/20036388-sns-12-04-25-4-oz-chosen-foods-100-pure-avocado-oil-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-19T22:05:40.181Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "adidas-mens-train-essentials-training-t-shirt-size-l-green-1020-free-sh-mu8xrxje",
+      "title": "adidas Men's Train Essentials Training T-Shirt (Size L, Green) $10.20 + Free S&H",
+      "summary": "adidas via eBay has adidas men Train Essentials Training Tee (size:L) for *$10.2 *when you apply coupon code *SEPTEMBER40* at checkout. Shipping is free.  \n \nhttps://www.ebay.com/itm/158299410324",
+      "sourceUrl": "https://slickdeals.net/f/20035515-adidas-men-train-essentials-training-tee-10-2-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-19T22:05:40.106Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "doneit-32-mu8pvgo0",
       "title": "Doneit 3.2",
       "summary": "Discussion\n            |\n            Link",
