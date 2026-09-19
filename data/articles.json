@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "mise-mu84no0k",
+      "title": "Mise",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/robot-recipes",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-19T08:30:32.276Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "mantra-timer-mu84nnzk",
+      "title": "Mantra Timer",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/transcendence",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-19T08:30:32.240Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "bolt-forge-mu84nny3",
+      "title": "Bolt Forge",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/bolt-new",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-19T08:30:32.187Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "shutterfly-4-x-55-personalized-photo-magnet-1-free-sh-mu84nnuh",
+      "title": "Shutterfly: 4\" x 5.5\" Personalized Photo Magnet $1 + Free S&H",
+      "summary": "Shutterfly offers 4” x 5.5” Photo Magnets [shutterfly.com] for $1 each + free shipping when you apply the following codes in cart \n* *MAGNET2* \n* *ANNIVERSARY* \n* *SHIPGIFTS* \n \nOffer ends 9/20/26 at...",
+      "sourceUrl": "https://slickdeals.net/f/20035707-shutterfly-4-x-5-5-photo-magnets-1-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-19T08:30:32.057Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "pragmata-xbox-series-xs-digital-40--mu84nnt5",
+      "title": "Pragmata (Xbox Series X|S Digital) $40 ",
+      "summary": "Newegg.com has Pragmata Xbox Series X|S [Digital Code] for $39.99 w/ EPF56766  \n \nhttps://www.newegg.com/capcom-pra...6832233351",
+      "sourceUrl": "https://slickdeals.net/f/20033286-39-99-pragmata-xbox-series-x-s-digital-code-at-newegg-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-19T08:30:32.009Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "7-item-ign-30th-anniversary-bundle-pcdd-sonic-adventure-2-subnautica-more-15--mu84nnrr",
+      "title": "7-Item IGN 30th Anniversary Bundle (PCDD): Sonic Adventure 2, Subnautica & More $15 ",
+      "summary": "Humble Bundle [humblebundle.com] has *7-Item IGN 30th Anniversary Bundle* (PC Games) for *$15*. \n \nNote: Steam account/application required to redeem code/play game (free to join [steampowered.com])....",
+      "sourceUrl": "https://slickdeals.net/f/20034009-15-7-item-ign-30th-anniversary-bundle-sonic-adventure-2-subnautica-ravenswatch-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-19T08:30:31.959Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "openai-and-microsoft-knew-they-were-starting-a-doom-loop-for-the-web-mu7t0bm9",
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it made a \"complete mockery of the idea of fair use.\"\nMany of the most ey",
