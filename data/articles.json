@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "trump-treads-further-on-free-speech-with-new-journalist-bans-mu9916lr",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "summary": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images\t\n\nOn Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House th",
+      "sourceUrl": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "sourceName": "The Verge",
+      "date": "2026-09-20T03:20:47.535Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "ruby-utcp-mu9916gu",
+      "title": "Ruby UTCP",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/utcp",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-20T03:20:47.358Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "basedash-models-mu9916fo",
+      "title": "Basedash Models",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/basedash",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-20T03:20:47.316Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "magic-the-gathering-avengers-assemble-marvel-super-heroes-commander-deck-52-free-mu99168o",
+      "title": "Magic The Gathering - Avengers Assemble Marvel Super Heroes Commander Deck $52 + Free S&H",
+      "summary": "Amazon [amazon.com] has *Magic: The Gathering | Marvel Super Heroes Commander Deck - Avengers Assemble *(100-Card Deck + Accessories) for *$51.99*. \n*Shipping is free*. \n \nBest Buy [bestbuy.com] also...",
+      "sourceUrl": "https://slickdeals.net/f/20036352-51-99-magic-the-gathering-marvel-super-heroes-commander-deck-avengers-assemble-100-card-deck-accessories-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-20T03:20:47.064Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "pulsar-10500w-dual-fuel-home-backup-portable-inverter-generator-819-free-sh-mu99167o",
+      "title": "Pulsar 10500W Dual Fuel Home Backup Portable Inverter Generator $819 + Free S&H",
+      "summary": "No CO sensor, so that alone puts it above many other generator choices. \n \nIt's an inverter, so it will be a little quieter. Big enough to run most medium sized houses. \n \nDual-Fuel so if you never...",
+      "sourceUrl": "https://slickdeals.net/f/20037744-pulsar-10-500w-inverter-dual-fuel-generator-819?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-20T03:20:47.028Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "8-oz-nestle-toll-house-100-pure-cocoa-baking-cocoa-315-w-ss-mu99166a",
+      "title": "8-Oz Nestle Toll House 100% Pure Cocoa Baking Cocoa $3.15 w/ S&S",
+      "summary": "Amazon [amazon.com] has *8-Oz Toll House Nestle 100% Pure Cocoa* for $3.33 - 5% when you check out via Subscribe & Save = *$3.16*. \n*Shipping is free* with Prime or on $35+ orders. \n \n*** Previous...",
+      "sourceUrl": "https://slickdeals.net/f/20037519-sns-3-16-8-oz-toll-house-nestle-100-pure-cocoa-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-20T03:20:46.978Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think-mu8xrxvv",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him ",
