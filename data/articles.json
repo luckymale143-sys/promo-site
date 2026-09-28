@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "vantageai-mul3yhms",
+      "title": "vantage.ai",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/vantage-ai-2",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-28T10:31:57.892Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "okara-mul3yhll",
+      "title": "Okara",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/okara-2",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-28T10:31:57.849Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "project-hail-mary-ebook-by-andy-weir-3--mul3yhex",
+      "title": "Project Hail Mary (eBook) by Andy Weir $3 ",
+      "summary": "Amazon [amazon.com] has Andy Weir: Project Hail Mary (Kindle Edition)  for $2.99 \n \nSame price at Google Play [google.com]",
+      "sourceUrl": "https://slickdeals.net/f/20068137-andy-weir-project-hail-mary-kindle-edition-2-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-28T10:31:57.609Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "boston-boston-remastered-digipack-audio-cd-555--mul3yhdq",
+      "title": "Boston: Boston Remastered Digipack (Audio CD) $5.55 ",
+      "summary": "Amazon [amazon.com] has *Boston: Boston (CD, Remastered)* on sale for *$5.54*. Shipping is free w/ Prime or on orders $35+. \n \nBoston: Track Listings \n* 1    More Than a Feeling \n* 2    Peace of Mind...",
+      "sourceUrl": "https://slickdeals.net/f/20067897-boston-boston-cd-remastered-5-54-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-28T10:31:57.566Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "kfc-restaurant-offer-kfc-bucket-offer-chicken-wings-tenders-or-nuggets-free-w-15-mul3yhcj",
+      "title": "KFC Restaurant Offer: KFC Bucket Offer (Chicken, Wings, Tenders or Nuggets) Free w/ $15+ Purchase (Valid thru 10/11)",
+      "summary": "Kentucky Fried Chicken Restaurant  \n \nFor those interested \n \nNote, must spend $15+ eligible order and apply the listed promo code in cart to receive promotional offer valid through October 11, 2026....",
+      "sourceUrl": "https://slickdeals.net/f/20068689-kfc-restaurant-offer-kfc-bucket-offer-chicken-wings-tenders-or-nuggets-free-w-15-purchase-valid-thru-10-11?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-28T10:31:57.523Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "unlocked-motorola-moto-g-power-2026-128gb-w-moto-buds-2-plus-moto-watch-for-400--mul3yguh",
+      "title": "Unlocked Motorola moto g power 2026 128GB w/ Moto Buds 2 Plus & Moto Watch for $400 + free shipping",
+      "summary": "The unlocked Motorola moto g power 2026 128GB smartphone is available for $399.99 — add it to your cart, and you'll also get the Motorola Moto Buds 2 Plus Wireless Earbuds and Motorola Moto Watch Smartwatch for free. That's $203 less than you'd pay for this bundle at Amazon. The phone pairs a 6.8\" FHD+ screen with a 120Hz refresh rate and a 50MP camera, and it runs Android 16. Buyers can also appl",
+      "sourceUrl": "https://www.dealnews.com/Unlocked-Motorola-moto-g-power-2026-128-GB-w-Moto-Buds-2-Plus-Moto-Watch-for-400-free-shipping/22154659.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-09-28T10:31:56.873Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "openai-agents-tried-to-bruteforce-a-un-website-mukp1t3e",
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
