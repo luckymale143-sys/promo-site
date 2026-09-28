@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "openai-agents-tried-to-bruteforce-a-un-website-mukp1t3e",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "sourceName": "The Verge",
+      "date": "2026-09-28T03:34:38.474Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music-mukp1t2c",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 radio. It's about creating experimental, unc",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "sourceName": "The Verge",
+      "date": "2026-09-28T03:34:38.436Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "humalike-x-gta-rp-mukp1t02",
+      "title": "Humalike x GTA RP",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/humalike-2",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-09-28T03:34:38.354Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "2-pk-42-oz-utz-pub-mix-savory-snack-mix-container-barrel-1510-w-ss-mukp1st8",
+      "title": "2-Pk 42-Oz Utz Pub Mix Savory Snack Mix Container Barrel $15.10 w/ S&S",
+      "summary": "https://www.amazon.com/Utz-Resealable-Container-Trans-Fat-Certified/dp/B0FBZ7XTTV/ref=ast_sto_dp_pui... [amazon.com] \n \nAmazon also has *42-Oz Utz Pub Mix Savory Snack Mix Container Barrel* on sale...",
+      "sourceUrl": "https://slickdeals.net/f/20060625-utz-pub-mix-42-oz-barrel-savory-snack-mix-with-a-blend-of-crunchy-flavors-for-a-tasty-party-snack-pack-of-2-17-19-with-s-s-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-28T03:34:38.108Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "mingfix-eyeglasses-repair-kit-w-magnetic-screwdriver-5--mukp1srx",
+      "title": "Mingfix Eyeglasses Repair Kit w/ Magnetic Screwdriver $5 ",
+      "summary": "Checkout with coupon code YJK19UH5 to take the price down to $4.99 until 10/5/2026.  \n  \n [LIST][*]Complete & Universal--This all-in-one eyeglass and sunglass repair tool kit includes multiple sizes...",
+      "sourceUrl": "https://slickdeals.net/f/20061849-eyeglass-repair-tool-kit-4-99-after-coupon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-28T03:34:38.061Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "wiholl-womens-ribbed-long-sleeve-collared-v-neck-fitted-top-various-7--mukp1sq4",
+      "title": "WIHOLL Women's Ribbed Long Sleeve Collared V-Neck Fitted Top (Various) $7 ",
+      "summary": "WIHOLL FASHION via Amazon [amazon.com] has *WIHOLL Women's Ribbed Long Sleeve Collared V-Neck Fitted Top* (XS-XXL, Various Colors) on sale for *$6.99* when you apply promo code 97VT6DTY at checkout....",
+      "sourceUrl": "https://slickdeals.net/f/20061435-wiholl-women-s-ribbed-long-sleeve-collared-v-neck-fitted-top-xs-xxl-various-colors-6-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-09-28T03:34:37.996Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "out-of-the-park-baseball-lets-me-enjoy-baseball-even-when-the-mets-suck-muket9kf",
       "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
       "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphically impressive. It's not a blast of simple arcade fun. It is basically a spreadsheet pretending to be ",
