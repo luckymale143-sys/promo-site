@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "meta-open-sources-code-to-let-you-make-muse-ai-gadgets-murllpvm",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are ",
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "sourceName": "The Verge",
+      "date": "2026-10-02T23:32:32.194Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "veltrix-ai-for-e-commerce-murllps7",
+      "title": "Veltrix AI for E-commerce",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/veltrix-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-02T23:32:32.071Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "wu-murllpqy",
+      "title": "Wu",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/wu",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-02T23:32:32.026Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "the-last-wish-introducing-the-witcher-short-story-collection-ebook-3-more-murllpl6",
+      "title": "The Last Wish: Introducing the Witcher (Short Story Collection, eBook) $3 & More",
+      "summary": "[list][*]The Last Wish: Introducing the Witcher (The Witcher Saga Book 1) [amazon.com] - *$2.99*[*]Sword of Destiny (The Witcher Book 2) [amazon.com] - *$2.99*[*]Blood of Elves (The Witcher Book 3 /...",
+      "sourceUrl": "https://slickdeals.net/f/20087379-2-99-the-last-wish-introducing-the-witcher-the-witcher-saga-book-1-ebook-by-andrzej-sapkowski?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-02T23:32:31.818Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "pelsee-s1-pro-dual-native-4k-front-4k-rear-dash-cam-w-gps-128gb-msd-75-free-sh-murllpjq",
+      "title": "Pelsee S1 Pro Dual Native 4K Front & 4K Rear Dash Cam w/ GPS & 128GB mSD $75 + Free S&H",
+      "summary": "Pelsee US via Amazon [amazon.com] has *Pelsee S1 Pro Dual Native 4K Front & 4K Rear Dash Cam with GPS, Voice Control & 128GB Card* on sale for $149.99 - *50% off* when you apply promo code KUZLXVWY...",
+      "sourceUrl": "https://slickdeals.net/f/20086851-pelsee-s1-pro-dual-native-4k-front-4k-rear-dash-cam-w-gps-voice-control-128gb-card-74-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-02T23:32:31.766Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "tcl-qm6k-series-50-4k-hdr-qd-mini-led-uhd-smart-google-tv-for-498-free-shipping-murllox9",
+      "title": "TCL QM6K Series 50\" 4K HDR QD-Mini LED UHD Smart Google TV for $498 + free shipping",
+      "summary": "This TCL QM6K is $498 at Walmart. That's $102 below the original price. Shipping is free.  Buy Now at Walmart\n \n Features\n  \nQD-Mini LED backlight w/ TCL Halo Control System for halo-free images\n 144Hz native refresh rate w/ Game Accelerator 288 for VRR gaming\n Onkyo 2.1 speaker system w/ built-in subwoofer and Dolby Atmos support\n Supports Dolby Vision IQ, HDR10+, HDR10, and HLG formats\n 4 HDMI i",
+      "sourceUrl": "https://www.dealnews.com/products/TCL/TCL-QM6-K-Series-50-4-K-HDR-QD-Mini-LED-UHD-Smart-Google-TV/539171.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-10-02T23:32:30.957Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "famulor-mur8ie9o",
       "title": "Famulor",
       "summary": "Discussion\n            |\n            Link",
