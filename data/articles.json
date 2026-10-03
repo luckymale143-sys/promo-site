@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "weftcut-murunf0x",
+      "title": "WeftCut",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/weftcut",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-03T03:45:47.985Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "gauth-unlimited-digital-canvas--murunezr",
+      "title": "Gauth Unlimited Digital Canvas ",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-03T03:45:47.943Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "open-inspector-murunewi",
+      "title": "Open Inspector",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/open-inspector",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-03T03:45:47.826Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "nike-mens-air-jordan-mvp-92-shoes-blackanthracitegamma-blue-5695-free-sh-muruness",
+      "title": "Nike Men's Air Jordan MVP 92 Shoes (Black/Anthracite/Gamma Blue) $56.95 + Free S&H",
+      "summary": "Dick's Sporting Goods [dickssportinggoods.com] has *Air Jordan MVP 92 Men's Sneakers (Black/Gamma Blue) *on sale for *$56.97*. Shipping is free for Score Card Members (free to join...",
+      "sourceUrl": "https://slickdeals.net/f/20089548-air-jordan-mvp-92-shoes-black-gamma-blue-56-97-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-03T03:45:47.692Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "12-pk-16-oz-c4-performance-zero-sugar-energy-drinks-berry-blue-typhoon-950-w-ss-muruneqs",
+      "title": "12-Pk 16-Oz C4 Performance Zero Sugar Energy Drinks (Berry Blue Typhoon) $9.50 w/ S&S",
+      "summary": "Amazon [amazon.com] has *12-Pack 16-Oz C4 Performance Zero Sugar Energy Drinks (Berry Blue Typhoon)* on sale for $9.99 - 5% off when you checkout via Subscribe & Save = *$9.49*. Shipping is free w/...",
+      "sourceUrl": "https://slickdeals.net/f/20091066-12-pk-16-oz-c4-performance-zero-sugar-energy-drinks-berry-blue-typhoon-9-50-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-03T03:45:47.620Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "12-milwaukee-digital-measuring-wheel-w-100-closed-reel-tape-measure-70-free-sh-murunenp",
+      "title": "12\" Milwaukee Digital Measuring Wheel w/ 100' Closed Reel Tape Measure $70 + Free S&H",
+      "summary": "Available for ship to store and delivery ( deal of the day 10/2 ) \n \nhttps://www.homedepot.com/p/Milwa.../319092028",
+      "sourceUrl": "https://slickdeals.net/f/20090637-milwaukee-12-in-digital-measuring-wheel-with-100-ft-closed-reel-long-tape-measure-69-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-03T03:45:47.509Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "meta-open-sources-code-to-let-you-make-muse-ai-gadgets-murllpvm",
       "title": "Meta open sources code to let you make Muse AI gadgets",
       "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are ",
