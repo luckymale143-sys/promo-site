@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "distrokid-has-been-quietly-taking-down-songs-in-response-to-umg-lawsuit-mv30epzr",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that their non-AI works are being caught up in the purge, how",
+      "sourceUrl": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "sourceName": "The Verge",
+      "date": "2026-10-10T23:12:27.927Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "reso-ai-mv30eptn",
+      "title": "ReSO AI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/reso",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-10T23:12:27.707Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "claude-dashboards-motion-mv30epsl",
+      "title": "Claude Dashboards & Motion",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/claude-dashboards-motion",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-10T23:12:27.669Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "cue-mv30epra",
+      "title": "Cue",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/cue-26",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-10T23:12:27.622Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "16-oz-de-cecco-farfalle-no-93-pasta-170-w-ss-mv30epn1",
+      "title": "16-Oz De Cecco Farfalle No. 93 Pasta $1.70 w/ S&S",
+      "summary": "Amazon.com has 16 Oz De Cecco Farfalle No. 93 Pasta for $1.71 when you check out w/ Subscribe & Save. \nShipping is free with Prime or on $35+ orders.  \n \nhttps://www.amazon.com/dp/B0014CRZH4",
+      "sourceUrl": "https://slickdeals.net/f/20137386-s-s-16-oz-de-cecco-farfalle-no-93-pasta-1-71-free-s-h-w-prime-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-10T23:12:27.469Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "806-pc-lego-technic-lamborghini-huracn-tecnica-sports-car-building-set-35-free-p-mv30eplj",
+      "title": "806-Pc LEGO Technic Lamborghini Huracán Tecnica Sports Car Building Set $35 + Free Pickup",
+      "summary": "LEGO Technic Lamborghini Huracán Tecnica Advanced Sports Car Building Kit 42161 \n \n806 pcs \n \nadd to cart to see price \n \n$35 \n \nhttps://www.target.com/p/lego-tec...A-87830581",
+      "sourceUrl": "https://slickdeals.net/f/20139009-lego-technic-lamborghini-hurac-n-tecnica-806-pcs-42161-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-10T23:12:27.415Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "puthere-mv2sy0va",
       "title": "put·here",
       "summary": "Discussion\n            |\n            Link",
