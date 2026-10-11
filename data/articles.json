@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "poke-finder-mv436xhf",
+      "title": "Poke Finder",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-11T17:18:09.411Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "focuswrite-mv436xgd",
+      "title": "FocusWrite",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/focuswrite",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-11T17:18:09.373Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ghost-core-mv436xf7",
+      "title": "Ghost Core",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/ghost-core",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-11T17:18:09.331Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "24-oz-owala-freesip-stainless-steel-water-bottle-butter-half-2280--mv436xc2",
+      "title": "24-Oz Owala FreeSip Stainless Steel Water Bottle (Butter Half) $22.80 ",
+      "summary": "Amazon [amazon.com] has *24-Oz Owala FreeSip Insulated Stainless Steel Water Bottles* for *$22.78*. \n*Shipping is free* with Prime or on $35+ orders.[LIST][*]*24 Ounces*[LIST][*]Butter Half...",
+      "sourceUrl": "https://slickdeals.net/f/20125962-22-78-24-oz-owala-freesip-insulated-stainless-steel-water-bottles-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-11T17:18:09.218Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "845-oz-finish-dual-action-dishwasher-cleaner-265-w-ss-mv436xat",
+      "title": "8.45-Oz Finish Dual Action Dishwasher Cleaner $2.65 w/ S&S",
+      "summary": "Amazon [amazon.com] has *8.45-Oz Finish Dual Action Dishwasher Cleaner* for $4.88 - $1.99 when you 'clip' the coupon on product page - 5% when you check out via Subscribe & Save = *$2.65*. *Shipping...",
+      "sourceUrl": "https://slickdeals.net/f/20141673-8-45-oz-finish-dual-action-dishwasher-cleaner-2-65-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-11T17:18:09.173Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "worx-wr341-4wd-robot-lawn-mower-for-up-to-14-acre-1400-free-sh-mv436x98",
+      "title": "WORX WR341 4WD Robot Lawn Mower (for up to 1/4 Acre) $1400 + Free S&H",
+      "summary": "WORX Robot Lawn Mower 4WD for 1/4 Acre, No Perimeter Wire, WR341 [amazon.com] $1,399.99 \nLandroid Vision Cloud with AI Obstacle Avoidance, RTK Cloud Navigation, Auto Mapping, App Control, 84% Slope,...",
+      "sourceUrl": "https://slickdeals.net/f/20136084-worx-wr341-4wd-robot-lawn-mower-for-up-to-1-4-acre-1400-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-11T17:18:09.116Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "mepersona-mv3otpwk",
       "title": "MePersona",
       "summary": "Discussion\n            |\n            Link",
