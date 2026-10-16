@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "withhuman-mvadwgei",
+      "title": "withHuman",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/withhuman",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-16T03:04:33.546Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "glm-legal-mvadwgcz",
+      "title": "GLM-Legal",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/z-ai",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-16T03:04:33.491Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "walgreens-photo-11-x-14-custom-photo-poster-2-free-pickup-mvadwg7r",
+      "title": "Walgreens Photo: 11\" x 14\" Custom Photo Poster $2 + Free Pickup",
+      "summary": "Coupon Name: POSTER2 \nDescription: $1.99 Same Day 11x14 Poster \nExpiration Date: Oct 17, 2026 \n \n \nhttps://photo.walgreens.com/store...%20Posters",
+      "sourceUrl": "https://slickdeals.net/f/20164725-walgreens-photo-11x14-photo-poster-1-99-w-code?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-16T03:04:33.303Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "select-accts-230-ct-amazon-grocery-aspartame-sweetener-packets-155-w-ss-mvadwg5s",
+      "title": "Select Accts: 230-Ct Amazon Grocery Aspartame Sweetener Packets $1.55 w/ S&S",
+      "summary": "Amazon [amazon.com] has for select accounts *230-Count Amazon Grocery Zero Calorie Aspartame Sweetener Packets* on sale for $1.93 - 15% off when you 'clip' the coupon on product page [amazon.com] -...",
+      "sourceUrl": "https://slickdeals.net/f/20150778-select-account-230-count-amazon-grocery-zero-calorie-aspartame-sweetener-packets-1-54-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-16T03:04:33.232Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "vevor-electric-2-burner-shawarma-grill-machine-9210-free-sh-mvadwg0s",
+      "title": "VEVOR Electric 2 Burner Shawarma Grill Machine $92.10 + Free S&H",
+      "summary": "VEVOR Shawarma Grill Machine, 13lbs Capacity, Chicken Cooker Machine with 2 Burners, 122℉-572℉ Electric Vertical Broiler for Home/Commercial \n \n$95.39 \n \nsold and shipped by vevor \n...",
+      "sourceUrl": "https://slickdeals.net/f/20165136-vevor-shawarma-grill-machine-13lbs-capacity-with-2-burners-122-572-95-39?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-16T03:04:33.052Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "warrky-2-pack-10-foot-xlr-cables-for-20-free-shipping-w-prime-mvadwfiv",
+      "title": "Warrky 2-Pack 10-Foot XLR Cables for $20 + free shipping w/ Prime",
+      "summary": "This 2-pack of 10-foot XLR cables is $19.79, down from $21.99. Each cable uses an oxygen-free copper core and multi-layer shielding, with a gold-plated, aluminum alloy housing for durability. Shipping is free for Prime members.  Buy Now at Amazon\n \n Features\n  \nSet of two 10-foot XLR cables with male-to-female connectors\n Oxygen-free copper core for signal clarity\n Six-layer construction with alum",
+      "sourceUrl": "https://www.dealnews.com/Warrky-2-Pack-10-Foot-XLR-Cables-for-20-free-shipping-w-Prime/22286371.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-10-16T03:04:32.407Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "142-macbook-pro-laptop-m5-pro-15-c-cpu16-c-gpu-24gb-ram-2tb-2026-2400-free-sh-mva4wiuy",
       "title": "14.2\" MacBook Pro Laptop: M5 Pro, 15-C CPU/16-C GPU, 24GB RAM, 2TB (2026) $2400 + Free S&H",
       "summary": "Available:[LIST][*]Apple MacBook Pro: 14\", M5 Pro (18C/20C) 24GB RAM, 2TB SSD, Silver - *$2599* \n* Best Buy [bestbuy.com] \n* Amazon [amazon.com] \n \n[*]Apple MacBook Pro: 14\", M5 Pro (15C/16C) 24GB...",
