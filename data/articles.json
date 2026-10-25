@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "badgey-mvnlfbhj",
+      "title": "Badgey",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/badgey",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-25T08:56:11.239Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "moli-by-lexmount-mvnlfbh5",
+      "title": "Moli by Lexmount",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/lexmount-browser",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-25T08:56:11.225Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "clips-by-plastic-mvnlfbgr",
+      "title": "Clips by Plastic",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/clips-by-plastic",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-25T08:56:11.211Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "lego-lord-of-the-rings-pc-digital-download-250--mvnlfbfa",
+      "title": "LEGO Lord of the Rings (PC Digital Download) $2.50 ",
+      "summary": "Loaded has *LEGO Lord of the Rings (PC) for $2.49* \n \nSteam required.  \n \nLittle bit of an oldie, but a goodie!  \n \nhttps://www.loaded.com/lego-lord-of-the-rings-pc",
+      "sourceUrl": "https://slickdeals.net/f/20192388-lego-lord-of-the-rings-pc-digital-download-2-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-25T08:56:11.158Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "scokc-10x32-compact-waterproof-monocular-telescope-2-colors-2945-free-sh-mvnlfbeu",
+      "title": "SCOKC 10x32 Compact Waterproof Monocular Telescope (2 Colors) $29.45 + Free S&H",
+      "summary": "SCOKC via Amazon has 10x32 Monocular Telescope,Compact Waterproof Fogproof for Bird Watching  for $29.45 when you clip coupon on product page and use code *F3D9HPE4* at checkout \n...",
+      "sourceUrl": "https://slickdeals.net/f/20201307-10x32-monocular-telescope-compact-waterproof-fogproof-for-bird-watching-29-45?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-25T08:56:11.142Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "select-stores-1-pair-18-milwaukee-cut-level-3-resistant-protective-arm-sleeves-5-mvnlfbdw",
+      "title": "Select Stores: 1-Pair 18\" Milwaukee Cut Level 3 Resistant Protective Arm Sleeves $5.80 (In-Store Only)",
+      "summary": "YMMV, on in store clearance at many stores in my area. \n \nhttps://www.homedepot.com/p/Milwa...store=2674",
+      "sourceUrl": "https://slickdeals.net/f/20200317-ymmv-milwaukee-red-stretch-cut-3-resistant-protective-arm-sleeves-5-80?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-25T08:56:11.108Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai-mvn90k7u",
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\nExecutive Producer Elizabeth Whit",
