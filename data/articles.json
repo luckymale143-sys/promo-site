@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academ-mvq500yo",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for th",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "sourceName": "The Verge",
+      "date": "2026-10-27T03:39:42.432Z",
+      "tags": [
+        "Tech",
+        "auto"
+      ],
+      "emoji": "⚡",
+      "affiliateEligible": false
+    },
+    {
+      "slug": "allmodels-mvq500wh",
+      "title": "AllModels",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/allmodels-io",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-27T03:39:42.353Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "jobmate-ai-mvq500v3",
+      "title": "Jobmate AI",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/jobmate-ai-3",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-10-27T03:39:42.303Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "626-pc-lego-creator-3-in-1-wild-animals-panda-family-building-set-32--mvq500re",
+      "title": "626-Pc LEGO Creator 3-in-1 Wild Animals: Panda Family Building Set $32 ",
+      "summary": "Amazon [amazon.com] has *626-Piece LEGO Creator 3-in-1 Wild Animals Panda Family Building Set (31165)* for *$31.99*. Shipping is free w/ Prime or on $35+. \n \nTarget [target.com] also has *626-Piece...",
+      "sourceUrl": "https://slickdeals.net/f/20186622-626-piece-lego-creator-3-in-1-wild-animals-panda-family-building-set-31165-31-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-27T03:39:42.170Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ryobi-one-18v-cordless-compact-fixed-base-router-w-18v-20ah-battery-99-free-sh-mvq500qm",
+      "title": "RYOBI ONE+ 18V Cordless Compact Fixed Base Router w/ 18V 2.0Ah Battery $99 + Free S&H",
+      "summary": "Home Depot [homedepot.com] has *Ryobi ONE+ 18V Cordless Compact Fixed Base Router w/ 2.0Ah Battery* on sale for *$99.00*. *Shipping is free.*",
+      "sourceUrl": "https://slickdeals.net/f/20187384-ryobi-one-18v-cordless-compact-fixed-base-router-w-2-0ah-battery-99-00-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-27T03:39:42.142Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "costco-members-10-ct-oral-b-floss-action-replacement-electric-toothbrush-heads-4-mvq500pe",
+      "title": "Costco Members: 10-Ct Oral-B Floss Action Replacement Electric Toothbrush Heads $44 + $3 S&H",
+      "summary": "https://www.costco.com/p/-/oral-b...?langId=-1 \n \n$11 OFF \n$11 manufacturer's savings is valid 10/19/26 through 11/15/26. While supplies last. \nLimit 3 per member. \n \n10-count Replacement Toothbrush...",
+      "sourceUrl": "https://slickdeals.net/f/20183781-oral-b-floss-action-replacement-electric-toothbrush-heads-10-count-43-99-2-99-shipping-costco-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-10-27T03:39:42.098Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "surgepix-mvpw74qg",
       "title": "SurgePix",
       "summary": "Discussion\n            |\n            Link",
