@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "doddle-mwqx3ygm",
+      "title": "Doddle",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/doddle-3",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-11-21T21:26:17.398Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ozark-trail-17-x-15-11-person-instant-hexagon-cabin-tent-gray-146-free-sh-mwqx3yeo",
+      "title": "Ozark Trail 17' x 15' 11-Person Instant Hexagon Cabin Tent (Gray) $146 + Free S&H",
+      "summary": "Walmart has *Ozark Trail WMT-171582 17 ft x 15 ft 11-Person Instant Hexagon Cabin Tent for $146. + Free S/H* \n \nhttps://www.walmart.com/ip/Ozark-...t/55260503",
+      "sourceUrl": "https://slickdeals.net/f/20348127-ozark-trail-wmt-171582-17-ft-x-15-ft-11-person-instant-hexagon-cabin-tent-146-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-11-21T21:26:17.328Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "tcl-tab-a1-plus-android-tablet-w-t-pen-2-122-24k-120hz-6128gb-ram-180-free-sh-mwqx3ye3",
+      "title": "TCL TAB A1 Plus Android Tablet w/ T-Pen 2: 12.2\" 2.4K 120Hz, 6+128GB RAM $180 + Free S&H",
+      "summary": "EDIT:  The one on the TCL site has the PEN !  If you need that one, here's the link ($179.99 Regular price \n$279.99 Save $100.00 ) : https://us.tcl.com/products/tcl-t...6166395969 \nI do not know...",
+      "sourceUrl": "https://slickdeals.net/f/20347287-tcl-tab-a1-plus-tablet-12-2-2-4k-120hz-6-128gb-179-at-amazon-and-tcl?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-11-21T21:26:17.307Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "2-pk-1kg-polymaker-abs-175mm-3d-printer-filaments-black-2140-w-ss-mwqx3ydg",
+      "title": "2-Pk 1KG Polymaker ABS 1.75mm 3D Printer Filaments (Black) $21.40 w/ S&S",
+      "summary": "Polymaker via Amazon \n \n$22.55 one time purchase or $21.42 w/ S&S \n* Product Link [amazon.com]",
+      "sourceUrl": "https://slickdeals.net/f/20344218-2x-1kg-2kg-total-polymaker-abs-3d-printer-filament-22-55-w-prime-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-11-21T21:26:17.284Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "amazon-black-friday-sale-todays-big-deals-up-to-60-off-free-shipping-w-prime-mwqx3xzu",
+      "title": "Amazon Black Friday Sale Today's Big Deals: Up to 60% off + free shipping w/ Prime",
+      "summary": "In this section you'll find highlights of today's big deals at Amazon as part of its Black Friday Sale. Today's highlights are focussed on electronics and audio. (This section refreshes each day.) Shipping is free for Prime members. Shop Now at Amazon",
+      "sourceUrl": "https://www.dealnews.com/Amazon-Black-Friday-Sale-Todays-Big-Deals-Up-to-60-off-free-shipping-w-Prime/22417997.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-11-21T21:26:16.794Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "200w-portable-bluetooth-party-speaker-for-248-free-shipping-mwqx3xyu",
+      "title": "200W Portable Bluetooth Party Speaker for $248 + free shipping",
+      "summary": "Good fit for backyard gatherings or garage setups where you need real volume without hauling around a full PA system, and at $248.04 it's $125 off the $373 list price. Apply coupon code \"DNHX3Y1UEP\" for a savings of $124.96. Buy Now at Amazon\n \n Features\n  \n200W RMS high-power audio output\n 36-hour battery life with power bank charging\n 3-way 5-driver system for deep bass\n IP66 dust and water-resi",
+      "sourceUrl": "https://www.dealnews.com/200-W-Portable-Bluetooth-Party-Speaker-for-248-free-shipping/22415454.html?iref=rss-c142",
+      "sourceName": "DealNews - Best Electronic Deals Online - Daily Electronics Deal",
+      "date": "2026-11-21T21:26:16.758Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "logitech-g305-lightspeed-wireless-hero-12k-sensor-gaming-mouse-various-from-2550-mwqd2c2u",
       "title": "Logitech G305 LIGHTSPEED Wireless Hero 12K Sensor Gaming Mouse (Various) from $25.50 ",
       "summary": "Amazon [amazon.com] has select *Logitech G305 LIGHTSPEED Wireless Gaming Mouse* on sale from *$25.48 *listed below. Shipping is free w/ Prime or on orders $35+. \n \nAvailable:[LIST][*]Blue...",
