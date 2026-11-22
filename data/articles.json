@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "slug": "shipyard-mwrdbcem",
+      "title": "Shipyard",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/shipyard",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-11-22T04:59:55.918Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "codemany-mwrdbcdp",
+      "title": "Codemany",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/codemany",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-11-22T04:59:55.885Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "glassmail-mwrdbccr",
+      "title": "Glassmail",
+      "summary": "Discussion\n            |\n            Link",
+      "sourceUrl": "https://www.producthunt.com/products/glassmail",
+      "sourceName": "Product Hunt — The best new products, every day",
+      "date": "2026-11-22T04:59:55.851Z",
+      "tags": [
+        "Products",
+        "auto"
+      ],
+      "emoji": "🎁",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "adidas-mens-or-womens-adissage-adjustable-360rec-slide-sandals-2-colors-1360-fre-mwrdbc7k",
+      "title": "adidas Men's or Women's Adissage Adjustable 360rec Slide Sandals (2 Colors) $13.60 + Free S&H",
+      "summary": "adidas Men's Adissage 360rec Slides (2 Colors) *$13.60* \n \nApply code *SD15* (*one use per account*) at checkout. \n \nFree shipping for adiClub members (free to join). \n \n_Available_ \n* Grey...",
+      "sourceUrl": "https://slickdeals.net/f/20361492-adidas-men-s-adissage-360rec-slides-2-colors-13-6?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-11-22T04:59:55.664Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "30-oz-owala-freesip-tumbler-stainless-steel-water-bottle-foggy-tide-2070--mwrdbc6n",
+      "title": "30-Oz Owala FreeSip Tumbler Stainless Steel Water Bottle (Foggy Tide) $20.70 ",
+      "summary": "Amazon [amazon.com] has *30-Oz Owala FreeSip Tumbler Stainless Steel Water Bottle* for $28 - $4.86 when you 'clip' the coupon on product page = *$23.14*. \n*Shipping is free* with Prime or on $35+...",
+      "sourceUrl": "https://slickdeals.net/f/20364330-ac-23-14-30-oz-owala-freesip-tumbler-stainless-steel-water-bottle-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-11-22T04:59:55.631Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
+      "slug": "ryobi-one-18v-18-gauge-brad-nailer-38-crown-stapler-tools-only-139-free-sh-mwrdbc5e",
+      "title": "RYOBI ONE+ 18V 18-Gauge Brad Nailer & 3/8\" Crown Stapler (Tools Only) $139 + Free S&H",
+      "summary": "The 18V ONE+ 18GA Brad Nailer is capable of driving 5/8\" to 2\" brad nails, it delivers the power to sink 2\" nails in hardwoods. The 45% smaller nose provides access to tight spaces, while tool-free...",
+      "sourceUrl": "https://slickdeals.net/f/20361780-ryobi-one-18v-18-gauge-cordless-brad-nailer-with-compression-drive-cordless-3-8-in-crown-stapler-tools-only-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "sourceName": "Slickdeals Frontpage RSS Feed",
+      "date": "2026-11-22T04:59:55.586Z",
+      "tags": [
+        "Deals",
+        "auto"
+      ],
+      "emoji": "💰",
+      "affiliateEligible": true
+    },
+    {
       "slug": "doddle-mwqx3ygm",
       "title": "Doddle",
       "summary": "Discussion\n            |\n            Link",
